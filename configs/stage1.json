@@ -1,0 +1,20 @@
+{
+  "stage": "stage1-generalization-control-v2",
+  "model_id": "openai-community/gpt2-medium",
+  "seed": 42,
+  "max_length": 256,
+  "micro_batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "effective_batch_size": 8,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.05,
+  "objective": "response-only causal language modeling",
+  "split_policy": "Per-category deterministic index modulo 10: 0-7 train, 8 validation, 9 test.",
+  "splits": {
+    "train": 800,
+    "validation": 100,
+    "test": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "stage": "stage1-generalization-control-v2",
+  "model": "openai-community/gpt2-medium",
+  "parameters": 354823168,
+  "train_examples": 800,
+  "validation_examples": 100,
+  "epochs": 3,
+  "optimizer_updates": 300,
+  "initial_validation_loss": 8.183892202377319,
+  "final_validation_loss": 1.1058812002034393,
+  "history": [
+    {
+      "epoch": 1,
+      "update": 100,
+      "validation_loss": 1.1588735995674506
+    },
+    {
+      "epoch": 2,
+      "update": 200,
+      "validation_loss": 1.083090040552197
+    },
+    {
+      "epoch": 3,
+      "update": 300,
+      "validation_loss": 1.1058812002034393
+    }
+  ],
+  "baseline_test": {
+    "model": "openai-community/gpt2-medium",
+    "split": "test",
+    "examples": 100,
+    "exact_match": 0,
+    "exact_match_rate": 0.0,
+    "target_contained": 0,
+    "target_contained_rate": 0.0,
+    "eos_count": 0,
+    "eos_rate": 0.0
+  },
+  "post_sft_test": {
+    "model": "outputs/gpt2-medium-stage1",
+    "split": "test",
+    "examples": 100,
+    "exact_match": 67,
+    "exact_match_rate": 0.67,
+    "target_contained": 67,
+    "target_contained_rate": 0.67,
+    "eos_count": 100,
+    "eos_rate": 1.0
+  },
+  "exact_match_gain": 0.67,
+  "target_contained_gain": 0.67,
+  "result": "PASS"
+}

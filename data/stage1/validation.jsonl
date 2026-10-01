@@ -1,0 +1,100 @@
+{"id": "math-division-0008", "category": "math", "family": "division", "instruction": "Compute exactly: 380 / 10.", "response": "38.", "answer_type": "exact"}
+{"id": "math-division-0018", "category": "math", "family": "division", "instruction": "Compute exactly: 432 / 9.", "response": "48.", "answer_type": "exact"}
+{"id": "math-division-0028", "category": "math", "family": "division", "instruction": "Compute exactly: 464 / 8.", "response": "58.", "answer_type": "exact"}
+{"id": "math-division-0038", "category": "math", "family": "division", "instruction": "Compute exactly: 476 / 7.", "response": "68.", "answer_type": "exact"}
+{"id": "math-division-0048", "category": "math", "family": "division", "instruction": "Compute exactly: 468 / 6.", "response": "78.", "answer_type": "exact"}
+{"id": "math-division-0058", "category": "math", "family": "division", "instruction": "Compute exactly: 440 / 5.", "response": "88.", "answer_type": "exact"}
+{"id": "math-division-0068", "category": "math", "family": "division", "instruction": "Compute exactly: 392 / 4.", "response": "98.", "answer_type": "exact"}
+{"id": "math-division-0078", "category": "math", "family": "division", "instruction": "Compute exactly: 324 / 3.", "response": "108.", "answer_type": "exact"}
+{"id": "math-division-0088", "category": "math", "family": "division", "instruction": "Compute exactly: 236 / 2.", "response": "118.", "answer_type": "exact"}
+{"id": "math-division-0098", "category": "math", "family": "division", "instruction": "Compute exactly: 1536 / 12.", "response": "128.", "answer_type": "exact"}
+{"id": "math-division-0108", "category": "math", "family": "division", "instruction": "Compute exactly: 1518 / 11.", "response": "138.", "answer_type": "exact"}
+{"id": "math-division-0118", "category": "math", "family": "division", "instruction": "Compute exactly: 1480 / 10.", "response": "148.", "answer_type": "exact"}
+{"id": "math-division-0128", "category": "math", "family": "division", "instruction": "Compute exactly: 1422 / 9.", "response": "158.", "answer_type": "exact"}
+{"id": "math-division-0138", "category": "math", "family": "division", "instruction": "Compute exactly: 1344 / 8.", "response": "168.", "answer_type": "exact"}
+{"id": "math-division-0148", "category": "math", "family": "division", "instruction": "Compute exactly: 1246 / 7.", "response": "178.", "answer_type": "exact"}
+{"id": "math-division-0158", "category": "math", "family": "division", "instruction": "Compute exactly: 1128 / 6.", "response": "188.", "answer_type": "exact"}
+{"id": "math-division-0168", "category": "math", "family": "division", "instruction": "Compute exactly: 990 / 5.", "response": "198.", "answer_type": "exact"}
+{"id": "math-division-0178", "category": "math", "family": "division", "instruction": "Compute exactly: 832 / 4.", "response": "208.", "answer_type": "exact"}
+{"id": "math-division-0188", "category": "math", "family": "division", "instruction": "Compute exactly: 654 / 3.", "response": "218.", "answer_type": "exact"}
+{"id": "math-division-0198", "category": "math", "family": "division", "instruction": "Compute exactly: 456 / 2.", "response": "228.", "answer_type": "exact"}
+{"id": "math-division-0208", "category": "math", "family": "division", "instruction": "Compute exactly: 2856 / 12.", "response": "238.", "answer_type": "exact"}
+{"id": "math-division-0218", "category": "math", "family": "division", "instruction": "Compute exactly: 2728 / 11.", "response": "248.", "answer_type": "exact"}
+{"id": "math-division-0228", "category": "math", "family": "division", "instruction": "Compute exactly: 2580 / 10.", "response": "258.", "answer_type": "exact"}
+{"id": "math-division-0238", "category": "math", "family": "division", "instruction": "Compute exactly: 2412 / 9.", "response": "268.", "answer_type": "exact"}
+{"id": "math-division-0248", "category": "math", "family": "division", "instruction": "Compute exactly: 2224 / 8.", "response": "278.", "answer_type": "exact"}
+{"id": "python-list_index-0008", "category": "python", "family": "list_index", "instruction": "Given values = [108, 111, 114], return the value of values[1].", "response": "111.", "answer_type": "exact"}
+{"id": "python-list_index-0018", "category": "python", "family": "list_index", "instruction": "Given values = [118, 121, 124], return the value of values[1].", "response": "121.", "answer_type": "exact"}
+{"id": "python-list_index-0028", "category": "python", "family": "list_index", "instruction": "Given values = [128, 131, 134], return the value of values[1].", "response": "131.", "answer_type": "exact"}
+{"id": "python-list_index-0038", "category": "python", "family": "list_index", "instruction": "Given values = [138, 141, 144], return the value of values[1].", "response": "141.", "answer_type": "exact"}
+{"id": "python-list_index-0048", "category": "python", "family": "list_index", "instruction": "Given values = [148, 151, 154], return the value of values[1].", "response": "151.", "answer_type": "exact"}
+{"id": "python-list_index-0058", "category": "python", "family": "list_index", "instruction": "Given values = [158, 161, 164], return the value of values[1].", "response": "161.", "answer_type": "exact"}
+{"id": "python-list_index-0068", "category": "python", "family": "list_index", "instruction": "Given values = [168, 171, 174], return the value of values[1].", "response": "171.", "answer_type": "exact"}
+{"id": "python-list_index-0078", "category": "python", "family": "list_index", "instruction": "Given values = [178, 181, 184], return the value of values[1].", "response": "181.", "answer_type": "exact"}
+{"id": "python-list_index-0088", "category": "python", "family": "list_index", "instruction": "Given values = [188, 191, 194], return the value of values[1].", "response": "191.", "answer_type": "exact"}
+{"id": "python-list_index-0098", "category": "python", "family": "list_index", "instruction": "Given values = [198, 201, 204], return the value of values[1].", "response": "201.", "answer_type": "exact"}
+{"id": "python-list_index-0108", "category": "python", "family": "list_index", "instruction": "Given values = [208, 211, 214], return the value of values[1].", "response": "211.", "answer_type": "exact"}
+{"id": "python-list_index-0118", "category": "python", "family": "list_index", "instruction": "Given values = [218, 221, 224], return the value of values[1].", "response": "221.", "answer_type": "exact"}
+{"id": "python-list_index-0128", "category": "python", "family": "list_index", "instruction": "Given values = [228, 231, 234], return the value of values[1].", "response": "231.", "answer_type": "exact"}
+{"id": "python-list_index-0138", "category": "python", "family": "list_index", "instruction": "Given values = [238, 241, 244], return the value of values[1].", "response": "241.", "answer_type": "exact"}
+{"id": "python-list_index-0148", "category": "python", "family": "list_index", "instruction": "Given values = [248, 251, 254], return the value of values[1].", "response": "251.", "answer_type": "exact"}
+{"id": "python-list_index-0158", "category": "python", "family": "list_index", "instruction": "Given values = [258, 261, 264], return the value of values[1].", "response": "261.", "answer_type": "exact"}
+{"id": "python-list_index-0168", "category": "python", "family": "list_index", "instruction": "Given values = [268, 271, 274], return the value of values[1].", "response": "271.", "answer_type": "exact"}
+{"id": "python-list_index-0178", "category": "python", "family": "list_index", "instruction": "Given values = [278, 281, 284], return the value of values[1].", "response": "281.", "answer_type": "exact"}
+{"id": "python-list_index-0188", "category": "python", "family": "list_index", "instruction": "Given values = [288, 291, 294], return the value of values[1].", "response": "291.", "answer_type": "exact"}
+{"id": "python-list_index-0198", "category": "python", "family": "list_index", "instruction": "Given values = [298, 301, 304], return the value of values[1].", "response": "301.", "answer_type": "exact"}
+{"id": "python-list_index-0208", "category": "python", "family": "list_index", "instruction": "Given values = [308, 311, 314], return the value of values[1].", "response": "311.", "answer_type": "exact"}
+{"id": "python-list_index-0218", "category": "python", "family": "list_index", "instruction": "Given values = [318, 321, 324], return the value of values[1].", "response": "321.", "answer_type": "exact"}
+{"id": "python-list_index-0228", "category": "python", "family": "list_index", "instruction": "Given values = [328, 331, 334], return the value of values[1].", "response": "331.", "answer_type": "exact"}
+{"id": "python-list_index-0238", "category": "python", "family": "list_index", "instruction": "Given values = [338, 341, 344], return the value of values[1].", "response": "341.", "answer_type": "exact"}
+{"id": "python-list_index-0248", "category": "python", "family": "list_index", "instruction": "Given values = [348, 351, 354], return the value of values[1].", "response": "351.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0008", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 80 bits?", "response": "10.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0018", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 160 bits?", "response": "20.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0028", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 240 bits?", "response": "30.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0038", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 320 bits?", "response": "40.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0048", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 400 bits?", "response": "50.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0058", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 480 bits?", "response": "60.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0068", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 560 bits?", "response": "70.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0078", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 640 bits?", "response": "80.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0088", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 720 bits?", "response": "90.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0098", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 800 bits?", "response": "100.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0108", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 880 bits?", "response": "110.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0118", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 960 bits?", "response": "120.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0128", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1040 bits?", "response": "130.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0138", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1120 bits?", "response": "140.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0148", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1200 bits?", "response": "150.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0158", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1280 bits?", "response": "160.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0168", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1360 bits?", "response": "170.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0178", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1440 bits?", "response": "180.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0188", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1520 bits?", "response": "190.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0198", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1600 bits?", "response": "200.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0208", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1680 bits?", "response": "210.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0218", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1760 bits?", "response": "220.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0228", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1840 bits?", "response": "230.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0238", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1920 bits?", "response": "240.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0248", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 2000 bits?", "response": "250.", "answer_type": "exact"}
+{"id": "instruction-prefix-0008", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia008'.", "response": "test-maia008", "answer_type": "exact"}
+{"id": "instruction-prefix-0018", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia018'.", "response": "test-maia018", "answer_type": "exact"}
+{"id": "instruction-prefix-0028", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia028'.", "response": "test-maia028", "answer_type": "exact"}
+{"id": "instruction-prefix-0038", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia038'.", "response": "test-maia038", "answer_type": "exact"}
+{"id": "instruction-prefix-0048", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia048'.", "response": "test-maia048", "answer_type": "exact"}
+{"id": "instruction-prefix-0058", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia058'.", "response": "test-maia058", "answer_type": "exact"}
+{"id": "instruction-prefix-0068", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia068'.", "response": "test-maia068", "answer_type": "exact"}
+{"id": "instruction-prefix-0078", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia078'.", "response": "test-maia078", "answer_type": "exact"}
+{"id": "instruction-prefix-0088", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia088'.", "response": "test-maia088", "answer_type": "exact"}
+{"id": "instruction-prefix-0098", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia098'.", "response": "test-maia098", "answer_type": "exact"}
+{"id": "instruction-prefix-0108", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia108'.", "response": "test-maia108", "answer_type": "exact"}
+{"id": "instruction-prefix-0118", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia118'.", "response": "test-maia118", "answer_type": "exact"}
+{"id": "instruction-prefix-0128", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia128'.", "response": "test-maia128", "answer_type": "exact"}
+{"id": "instruction-prefix-0138", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia138'.", "response": "test-maia138", "answer_type": "exact"}
+{"id": "instruction-prefix-0148", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia148'.", "response": "test-maia148", "answer_type": "exact"}
+{"id": "instruction-prefix-0158", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia158'.", "response": "test-maia158", "answer_type": "exact"}
+{"id": "instruction-prefix-0168", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia168'.", "response": "test-maia168", "answer_type": "exact"}
+{"id": "instruction-prefix-0178", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia178'.", "response": "test-maia178", "answer_type": "exact"}
+{"id": "instruction-prefix-0188", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia188'.", "response": "test-maia188", "answer_type": "exact"}
+{"id": "instruction-prefix-0198", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia198'.", "response": "test-maia198", "answer_type": "exact"}
+{"id": "instruction-prefix-0208", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia208'.", "response": "test-maia208", "answer_type": "exact"}
+{"id": "instruction-prefix-0218", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia218'.", "response": "test-maia218", "answer_type": "exact"}
+{"id": "instruction-prefix-0228", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia228'.", "response": "test-maia228", "answer_type": "exact"}
+{"id": "instruction-prefix-0238", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia238'.", "response": "test-maia238", "answer_type": "exact"}
+{"id": "instruction-prefix-0248", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia248'.", "response": "test-maia248", "answer_type": "exact"}

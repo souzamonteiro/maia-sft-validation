@@ -1,0 +1,48 @@
+{
+  "archive_format": 1,
+  "experiment": "stage1-generalization-control-v2",
+  "experiment_number": 2027,
+  "created_at": "2026-09-30T22:23:36.707625-03:00",
+  "git": {
+    "commit": "839025a3975ba74e1920ee80a14343f3f7573e0b",
+    "branch": "main",
+    "dirty": true
+  },
+  "files": [
+    {
+      "path": "experiments/2026-09-30_2027-stage1-generalization-control-v2/metrics.json",
+      "size_bytes": 1234,
+      "sha256": "08b8f1181bf57f73b6e9531f05414f7b80bfce40183d144caa9d8a6e765a312e"
+    },
+    {
+      "path": "experiments/2026-09-30_2027-stage1-generalization-control-v2/config.json",
+      "size_bytes": 541,
+      "sha256": "a8f99b58f1177426d3d96745f234da5fd05eaf0a502beeb09149c15c4f153967"
+    },
+    {
+      "path": "2026-09-30_2027-stage1-generalization-control-v2/data/train.jsonl",
+      "size_bytes": 156203,
+      "sha256": "0c3efdb58a679b466d4ad8985603e0d5befe2d5063f33e1b7b8daf1c5e5150ae"
+    },
+    {
+      "path": "2026-09-30_2027-stage1-generalization-control-v2/data/validation.jsonl",
+      "size_bytes": 18940,
+      "sha256": "de8c286cfbb9ba51445756085dadb22b53b3119f0879c13583fd3e7cd74738d0"
+    },
+    {
+      "path": "2026-09-30_2027-stage1-generalization-control-v2/data/test.jsonl",
+      "size_bytes": 19814,
+      "sha256": "75a500faad48cceb7b0dfe1530ef5f4b6173f47ee7d4f3c241f1ec3e94837305"
+    },
+    {
+      "path": "2026-09-30_2027-stage1-generalization-control-v2/logs/stage1-20260930-220306.log",
+      "size_bytes": 5571,
+      "sha256": "a417c4251db019707eea4fbf2740eee624118f853aaa9a0b929f5ee6b0aa39c3"
+    },
+    {
+      "path": "environment.json",
+      "size_bytes": 335,
+      "sha256": "228ae0df01d181b9b30cfd16b19e1f868dad1d35c34d9a47c2005e18ada38f6e"
+    }
+  ]
+}

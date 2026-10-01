@@ -1,50 +1,35 @@
-import json
-import os
-import random
 from pathlib import Path
+import json, torch
+from transformers import AutoTokenizer
 
-import torch
-
+ROOT = Path(__file__).resolve().parent.parent
 MODEL_ID = "openai-community/gpt2-medium"
-DEFAULT_MAX_LENGTH = 256
-DEFAULT_SEED = 42
+MAX_LENGTH = 256
+SEED = 42
 
+def load_jsonl(path):
+    with open(path, encoding="utf-8") as f:
+        return [json.loads(line) for line in f if line.strip()]
 
-def set_seed(seed: int = DEFAULT_SEED) -> None:
-    random.seed(seed)
-    torch.manual_seed(seed)
-    if torch.backends.mps.is_available():
-        torch.mps.manual_seed(seed)
+def prompt_for(instruction):
+    return f"### User:\n{instruction}\n\n### Assistant:\n"
 
+def get_tokenizer(model_id=MODEL_ID):
+    tok = AutoTokenizer.from_pretrained(model_id)
+    if tok.pad_token is None:
+        tok.pad_token = tok.eos_token
+    tok.padding_side = "right"
+    return tok
 
-def get_device() -> torch.device:
-    if torch.backends.mps.is_available():
-        return torch.device("mps")
-    return torch.device("cpu")
-
-
-def print_environment() -> None:
-    print(f"PyTorch: {torch.__version__}")
-    print(f"MPS built: {torch.backends.mps.is_built()}")
-    print(f"MPS available: {torch.backends.mps.is_available()}")
-    print(f"Selected device: {get_device()}")
-
-
-def read_jsonl(path: str | Path) -> list[dict]:
-    rows = []
-    with open(path, "r", encoding="utf-8") as handle:
-        for line_no, line in enumerate(handle, 1):
-            line = line.strip()
-            if not line:
-                continue
-            row = json.loads(line)
-            if "instruction" not in row or "response" not in row:
-                raise ValueError(f"Missing fields at line {line_no}: {path}")
-            rows.append(row)
-    if not rows:
-        raise ValueError(f"Dataset is empty: {path}")
-    return rows
-
-
-def ensure_mps_fallback() -> None:
-    os.environ.setdefault("PYTORCH_ENABLE_MPS_FALLBACK", "1")
+def encode_response_only(tok, instruction, response, max_length=MAX_LENGTH):
+    p = tok.encode(prompt_for(instruction), add_special_tokens=False)
+    r = tok.encode(response, add_special_tokens=False) + [tok.eos_token_id]
+    ids = p + r
+    if len(ids) > max_length:
+        raise ValueError(f"Example too long: {len(ids)} > {max_length}")
+    pad = max_length - len(ids)
+    return {
+        "input_ids": torch.tensor(ids + [tok.pad_token_id] * pad, dtype=torch.long),
+        "attention_mask": torch.tensor([1] * len(ids) + [0] * pad, dtype=torch.long),
+        "labels": torch.tensor([-100] * len(p) + r + [-100] * pad, dtype=torch.long),
+    }

@@ -1,0 +1,100 @@
+{"id": "math-sequence-0009", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 59, 63, 67, 71, ?", "response": "75.", "answer_type": "exact"}
+{"id": "math-sequence-0019", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 69, 76, 83, 90, ?", "response": "97.", "answer_type": "exact"}
+{"id": "math-sequence-0029", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 79, 82, 85, 88, ?", "response": "91.", "answer_type": "exact"}
+{"id": "math-sequence-0039", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 89, 95, 101, 107, ?", "response": "113.", "answer_type": "exact"}
+{"id": "math-sequence-0049", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 99, 101, 103, 105, ?", "response": "107.", "answer_type": "exact"}
+{"id": "math-sequence-0059", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 109, 114, 119, 124, ?", "response": "129.", "answer_type": "exact"}
+{"id": "math-sequence-0069", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 119, 127, 135, 143, ?", "response": "151.", "answer_type": "exact"}
+{"id": "math-sequence-0079", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 129, 133, 137, 141, ?", "response": "145.", "answer_type": "exact"}
+{"id": "math-sequence-0089", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 139, 146, 153, 160, ?", "response": "167.", "answer_type": "exact"}
+{"id": "math-sequence-0099", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 149, 152, 155, 158, ?", "response": "161.", "answer_type": "exact"}
+{"id": "math-sequence-0109", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 159, 165, 171, 177, ?", "response": "183.", "answer_type": "exact"}
+{"id": "math-sequence-0119", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 169, 171, 173, 175, ?", "response": "177.", "answer_type": "exact"}
+{"id": "math-sequence-0129", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 179, 184, 189, 194, ?", "response": "199.", "answer_type": "exact"}
+{"id": "math-sequence-0139", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 189, 197, 205, 213, ?", "response": "221.", "answer_type": "exact"}
+{"id": "math-sequence-0149", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 199, 203, 207, 211, ?", "response": "215.", "answer_type": "exact"}
+{"id": "math-sequence-0159", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 209, 216, 223, 230, ?", "response": "237.", "answer_type": "exact"}
+{"id": "math-sequence-0169", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 219, 222, 225, 228, ?", "response": "231.", "answer_type": "exact"}
+{"id": "math-sequence-0179", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 229, 235, 241, 247, ?", "response": "253.", "answer_type": "exact"}
+{"id": "math-sequence-0189", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 239, 241, 243, 245, ?", "response": "247.", "answer_type": "exact"}
+{"id": "math-sequence-0199", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 249, 254, 259, 264, ?", "response": "269.", "answer_type": "exact"}
+{"id": "math-sequence-0209", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 259, 267, 275, 283, ?", "response": "291.", "answer_type": "exact"}
+{"id": "math-sequence-0219", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 269, 273, 277, 281, ?", "response": "285.", "answer_type": "exact"}
+{"id": "math-sequence-0229", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 279, 286, 293, 300, ?", "response": "307.", "answer_type": "exact"}
+{"id": "math-sequence-0239", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 289, 292, 295, 298, ?", "response": "301.", "answer_type": "exact"}
+{"id": "math-sequence-0249", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 299, 305, 311, 317, ?", "response": "323.", "answer_type": "exact"}
+{"id": "python-boolean-0009", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 109 < 110?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0019", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 119 < 120?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0029", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 129 < 130?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0039", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 139 < 140?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0049", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 149 < 150?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0059", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 159 < 160?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0069", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 169 < 170?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0079", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 179 < 180?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0089", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 189 < 190?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0099", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 199 < 200?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0109", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 209 < 210?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0119", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 219 < 220?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0129", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 229 < 230?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0139", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 239 < 240?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0149", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 249 < 250?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0159", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 259 < 260?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0169", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 269 < 270?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0179", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 279 < 280?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0189", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 289 < 290?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0199", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 299 < 300?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0209", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 309 < 310?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0219", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 319 < 320?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0229", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 329 < 330?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0239", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 339 < 340?", "response": "True.", "answer_type": "exact"}
+{"id": "python-boolean-0249", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 349 < 350?", "response": "True.", "answer_type": "exact"}
+{"id": "science-milliseconds-0009", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 11000 milliseconds?", "response": "11.", "answer_type": "exact"}
+{"id": "science-milliseconds-0019", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 21000 milliseconds?", "response": "21.", "answer_type": "exact"}
+{"id": "science-milliseconds-0029", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 31000 milliseconds?", "response": "31.", "answer_type": "exact"}
+{"id": "science-milliseconds-0039", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 41000 milliseconds?", "response": "41.", "answer_type": "exact"}
+{"id": "science-milliseconds-0049", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 51000 milliseconds?", "response": "51.", "answer_type": "exact"}
+{"id": "science-milliseconds-0059", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 61000 milliseconds?", "response": "61.", "answer_type": "exact"}
+{"id": "science-milliseconds-0069", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 71000 milliseconds?", "response": "71.", "answer_type": "exact"}
+{"id": "science-milliseconds-0079", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 81000 milliseconds?", "response": "81.", "answer_type": "exact"}
+{"id": "science-milliseconds-0089", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 91000 milliseconds?", "response": "91.", "answer_type": "exact"}
+{"id": "science-milliseconds-0099", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 101000 milliseconds?", "response": "101.", "answer_type": "exact"}
+{"id": "science-milliseconds-0109", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 111000 milliseconds?", "response": "111.", "answer_type": "exact"}
+{"id": "science-milliseconds-0119", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 121000 milliseconds?", "response": "121.", "answer_type": "exact"}
+{"id": "science-milliseconds-0129", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 131000 milliseconds?", "response": "131.", "answer_type": "exact"}
+{"id": "science-milliseconds-0139", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 141000 milliseconds?", "response": "141.", "answer_type": "exact"}
+{"id": "science-milliseconds-0149", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 151000 milliseconds?", "response": "151.", "answer_type": "exact"}
+{"id": "science-milliseconds-0159", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 161000 milliseconds?", "response": "161.", "answer_type": "exact"}
+{"id": "science-milliseconds-0169", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 171000 milliseconds?", "response": "171.", "answer_type": "exact"}
+{"id": "science-milliseconds-0179", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 181000 milliseconds?", "response": "181.", "answer_type": "exact"}
+{"id": "science-milliseconds-0189", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 191000 milliseconds?", "response": "191.", "answer_type": "exact"}
+{"id": "science-milliseconds-0199", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 201000 milliseconds?", "response": "201.", "answer_type": "exact"}
+{"id": "science-milliseconds-0209", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 211000 milliseconds?", "response": "211.", "answer_type": "exact"}
+{"id": "science-milliseconds-0219", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 221000 milliseconds?", "response": "221.", "answer_type": "exact"}
+{"id": "science-milliseconds-0229", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 231000 milliseconds?", "response": "231.", "answer_type": "exact"}
+{"id": "science-milliseconds-0239", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 241000 milliseconds?", "response": "241.", "answer_type": "exact"}
+{"id": "science-milliseconds-0249", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 251000 milliseconds?", "response": "251.", "answer_type": "exact"}
+{"id": "instruction-length-0009", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia009'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0019", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia019'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0029", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia029'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0039", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia039'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0049", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia049'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0059", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia059'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0069", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia069'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0079", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia079'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0089", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia089'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0099", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia099'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0109", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia109'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0119", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia119'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0129", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia129'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0139", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia139'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0149", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia149'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0159", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia159'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0169", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia169'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0179", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia179'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0189", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia189'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0199", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia199'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0209", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia209'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0219", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia219'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0229", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia229'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0239", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia239'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-length-0249", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia249'.", "response": "7.", "answer_type": "exact"}

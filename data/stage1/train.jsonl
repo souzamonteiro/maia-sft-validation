@@ -1,0 +1,800 @@
+{"id": "math-addition-0000", "category": "math", "family": "addition", "instruction": "Compute exactly: 100 + 7.", "response": "107.", "answer_type": "exact"}
+{"id": "math-subtraction-0001", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 109 - 8.", "response": "101.", "answer_type": "exact"}
+{"id": "math-multiplication-0002", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 22 × 4.", "response": "88.", "answer_type": "exact"}
+{"id": "math-division-0003", "category": "math", "family": "division", "instruction": "Compute exactly: 165 / 5.", "response": "33.", "answer_type": "exact"}
+{"id": "math-sequence-0004", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 54, 60, 66, 72, ?", "response": "78.", "answer_type": "exact"}
+{"id": "math-addition-0005", "category": "math", "family": "addition", "instruction": "Compute exactly: 105 + 12.", "response": "117.", "answer_type": "exact"}
+{"id": "math-subtraction-0006", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 119 - 13.", "response": "106.", "answer_type": "exact"}
+{"id": "math-multiplication-0007", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 27 × 9.", "response": "243.", "answer_type": "exact"}
+{"id": "math-addition-0010", "category": "math", "family": "addition", "instruction": "Compute exactly: 110 + 17.", "response": "127.", "answer_type": "exact"}
+{"id": "math-subtraction-0011", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 129 - 18.", "response": "111.", "answer_type": "exact"}
+{"id": "math-multiplication-0012", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 32 × 5.", "response": "160.", "answer_type": "exact"}
+{"id": "math-division-0013", "category": "math", "family": "division", "instruction": "Compute exactly: 172 / 4.", "response": "43.", "answer_type": "exact"}
+{"id": "math-sequence-0014", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 64, 66, 68, 70, ?", "response": "72.", "answer_type": "exact"}
+{"id": "math-addition-0015", "category": "math", "family": "addition", "instruction": "Compute exactly: 115 + 22.", "response": "137.", "answer_type": "exact"}
+{"id": "math-subtraction-0016", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 139 - 23.", "response": "116.", "answer_type": "exact"}
+{"id": "math-multiplication-0017", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 37 × 10.", "response": "370.", "answer_type": "exact"}
+{"id": "math-addition-0020", "category": "math", "family": "addition", "instruction": "Compute exactly: 120 + 27.", "response": "147.", "answer_type": "exact"}
+{"id": "math-subtraction-0021", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 149 - 28.", "response": "121.", "answer_type": "exact"}
+{"id": "math-multiplication-0022", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 42 × 6.", "response": "252.", "answer_type": "exact"}
+{"id": "math-division-0023", "category": "math", "family": "division", "instruction": "Compute exactly: 159 / 3.", "response": "53.", "answer_type": "exact"}
+{"id": "math-sequence-0024", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 74, 79, 84, 89, ?", "response": "94.", "answer_type": "exact"}
+{"id": "math-addition-0025", "category": "math", "family": "addition", "instruction": "Compute exactly: 125 + 32.", "response": "157.", "answer_type": "exact"}
+{"id": "math-subtraction-0026", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 159 - 33.", "response": "126.", "answer_type": "exact"}
+{"id": "math-multiplication-0027", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 47 × 2.", "response": "94.", "answer_type": "exact"}
+{"id": "math-addition-0030", "category": "math", "family": "addition", "instruction": "Compute exactly: 130 + 37.", "response": "167.", "answer_type": "exact"}
+{"id": "math-subtraction-0031", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 169 - 38.", "response": "131.", "answer_type": "exact"}
+{"id": "math-multiplication-0032", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 52 × 7.", "response": "364.", "answer_type": "exact"}
+{"id": "math-division-0033", "category": "math", "family": "division", "instruction": "Compute exactly: 126 / 2.", "response": "63.", "answer_type": "exact"}
+{"id": "math-sequence-0034", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 84, 92, 100, 108, ?", "response": "116.", "answer_type": "exact"}
+{"id": "math-addition-0035", "category": "math", "family": "addition", "instruction": "Compute exactly: 135 + 42.", "response": "177.", "answer_type": "exact"}
+{"id": "math-subtraction-0036", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 179 - 43.", "response": "136.", "answer_type": "exact"}
+{"id": "math-multiplication-0037", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 57 × 3.", "response": "171.", "answer_type": "exact"}
+{"id": "math-addition-0040", "category": "math", "family": "addition", "instruction": "Compute exactly: 140 + 47.", "response": "187.", "answer_type": "exact"}
+{"id": "math-subtraction-0041", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 189 - 48.", "response": "141.", "answer_type": "exact"}
+{"id": "math-multiplication-0042", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 62 × 8.", "response": "496.", "answer_type": "exact"}
+{"id": "math-division-0043", "category": "math", "family": "division", "instruction": "Compute exactly: 876 / 12.", "response": "73.", "answer_type": "exact"}
+{"id": "math-sequence-0044", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 94, 98, 102, 106, ?", "response": "110.", "answer_type": "exact"}
+{"id": "math-addition-0045", "category": "math", "family": "addition", "instruction": "Compute exactly: 145 + 9.", "response": "154.", "answer_type": "exact"}
+{"id": "math-subtraction-0046", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 156 - 10.", "response": "146.", "answer_type": "exact"}
+{"id": "math-multiplication-0047", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 67 × 4.", "response": "268.", "answer_type": "exact"}
+{"id": "math-addition-0050", "category": "math", "family": "addition", "instruction": "Compute exactly: 150 + 14.", "response": "164.", "answer_type": "exact"}
+{"id": "math-subtraction-0051", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 166 - 15.", "response": "151.", "answer_type": "exact"}
+{"id": "math-multiplication-0052", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 72 × 9.", "response": "648.", "answer_type": "exact"}
+{"id": "math-division-0053", "category": "math", "family": "division", "instruction": "Compute exactly: 913 / 11.", "response": "83.", "answer_type": "exact"}
+{"id": "math-sequence-0054", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 104, 111, 118, 125, ?", "response": "132.", "answer_type": "exact"}
+{"id": "math-addition-0055", "category": "math", "family": "addition", "instruction": "Compute exactly: 155 + 19.", "response": "174.", "answer_type": "exact"}
+{"id": "math-subtraction-0056", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 176 - 20.", "response": "156.", "answer_type": "exact"}
+{"id": "math-multiplication-0057", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 77 × 5.", "response": "385.", "answer_type": "exact"}
+{"id": "math-addition-0060", "category": "math", "family": "addition", "instruction": "Compute exactly: 160 + 24.", "response": "184.", "answer_type": "exact"}
+{"id": "math-subtraction-0061", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 186 - 25.", "response": "161.", "answer_type": "exact"}
+{"id": "math-multiplication-0062", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 82 × 10.", "response": "820.", "answer_type": "exact"}
+{"id": "math-division-0063", "category": "math", "family": "division", "instruction": "Compute exactly: 930 / 10.", "response": "93.", "answer_type": "exact"}
+{"id": "math-sequence-0064", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 114, 117, 120, 123, ?", "response": "126.", "answer_type": "exact"}
+{"id": "math-addition-0065", "category": "math", "family": "addition", "instruction": "Compute exactly: 165 + 29.", "response": "194.", "answer_type": "exact"}
+{"id": "math-subtraction-0066", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 196 - 30.", "response": "166.", "answer_type": "exact"}
+{"id": "math-multiplication-0067", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 87 × 6.", "response": "522.", "answer_type": "exact"}
+{"id": "math-addition-0070", "category": "math", "family": "addition", "instruction": "Compute exactly: 170 + 34.", "response": "204.", "answer_type": "exact"}
+{"id": "math-subtraction-0071", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 206 - 35.", "response": "171.", "answer_type": "exact"}
+{"id": "math-multiplication-0072", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 92 × 2.", "response": "184.", "answer_type": "exact"}
+{"id": "math-division-0073", "category": "math", "family": "division", "instruction": "Compute exactly: 927 / 9.", "response": "103.", "answer_type": "exact"}
+{"id": "math-sequence-0074", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 124, 130, 136, 142, ?", "response": "148.", "answer_type": "exact"}
+{"id": "math-addition-0075", "category": "math", "family": "addition", "instruction": "Compute exactly: 175 + 39.", "response": "214.", "answer_type": "exact"}
+{"id": "math-subtraction-0076", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 216 - 40.", "response": "176.", "answer_type": "exact"}
+{"id": "math-multiplication-0077", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 97 × 7.", "response": "679.", "answer_type": "exact"}
+{"id": "math-addition-0080", "category": "math", "family": "addition", "instruction": "Compute exactly: 180 + 44.", "response": "224.", "answer_type": "exact"}
+{"id": "math-subtraction-0081", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 226 - 45.", "response": "181.", "answer_type": "exact"}
+{"id": "math-multiplication-0082", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 102 × 3.", "response": "306.", "answer_type": "exact"}
+{"id": "math-division-0083", "category": "math", "family": "division", "instruction": "Compute exactly: 904 / 8.", "response": "113.", "answer_type": "exact"}
+{"id": "math-sequence-0084", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 134, 136, 138, 140, ?", "response": "142.", "answer_type": "exact"}
+{"id": "math-addition-0085", "category": "math", "family": "addition", "instruction": "Compute exactly: 185 + 49.", "response": "234.", "answer_type": "exact"}
+{"id": "math-subtraction-0086", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 193 - 7.", "response": "186.", "answer_type": "exact"}
+{"id": "math-multiplication-0087", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 107 × 8.", "response": "856.", "answer_type": "exact"}
+{"id": "math-addition-0090", "category": "math", "family": "addition", "instruction": "Compute exactly: 190 + 11.", "response": "201.", "answer_type": "exact"}
+{"id": "math-subtraction-0091", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 203 - 12.", "response": "191.", "answer_type": "exact"}
+{"id": "math-multiplication-0092", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 112 × 4.", "response": "448.", "answer_type": "exact"}
+{"id": "math-division-0093", "category": "math", "family": "division", "instruction": "Compute exactly: 861 / 7.", "response": "123.", "answer_type": "exact"}
+{"id": "math-sequence-0094", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 144, 149, 154, 159, ?", "response": "164.", "answer_type": "exact"}
+{"id": "math-addition-0095", "category": "math", "family": "addition", "instruction": "Compute exactly: 195 + 16.", "response": "211.", "answer_type": "exact"}
+{"id": "math-subtraction-0096", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 213 - 17.", "response": "196.", "answer_type": "exact"}
+{"id": "math-multiplication-0097", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 117 × 9.", "response": "1053.", "answer_type": "exact"}
+{"id": "math-addition-0100", "category": "math", "family": "addition", "instruction": "Compute exactly: 200 + 21.", "response": "221.", "answer_type": "exact"}
+{"id": "math-subtraction-0101", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 223 - 22.", "response": "201.", "answer_type": "exact"}
+{"id": "math-multiplication-0102", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 122 × 5.", "response": "610.", "answer_type": "exact"}
+{"id": "math-division-0103", "category": "math", "family": "division", "instruction": "Compute exactly: 798 / 6.", "response": "133.", "answer_type": "exact"}
+{"id": "math-sequence-0104", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 154, 162, 170, 178, ?", "response": "186.", "answer_type": "exact"}
+{"id": "math-addition-0105", "category": "math", "family": "addition", "instruction": "Compute exactly: 205 + 26.", "response": "231.", "answer_type": "exact"}
+{"id": "math-subtraction-0106", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 233 - 27.", "response": "206.", "answer_type": "exact"}
+{"id": "math-multiplication-0107", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 127 × 10.", "response": "1270.", "answer_type": "exact"}
+{"id": "math-addition-0110", "category": "math", "family": "addition", "instruction": "Compute exactly: 210 + 31.", "response": "241.", "answer_type": "exact"}
+{"id": "math-subtraction-0111", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 243 - 32.", "response": "211.", "answer_type": "exact"}
+{"id": "math-multiplication-0112", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 132 × 6.", "response": "792.", "answer_type": "exact"}
+{"id": "math-division-0113", "category": "math", "family": "division", "instruction": "Compute exactly: 715 / 5.", "response": "143.", "answer_type": "exact"}
+{"id": "math-sequence-0114", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 164, 168, 172, 176, ?", "response": "180.", "answer_type": "exact"}
+{"id": "math-addition-0115", "category": "math", "family": "addition", "instruction": "Compute exactly: 215 + 36.", "response": "251.", "answer_type": "exact"}
+{"id": "math-subtraction-0116", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 253 - 37.", "response": "216.", "answer_type": "exact"}
+{"id": "math-multiplication-0117", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 137 × 2.", "response": "274.", "answer_type": "exact"}
+{"id": "math-addition-0120", "category": "math", "family": "addition", "instruction": "Compute exactly: 220 + 41.", "response": "261.", "answer_type": "exact"}
+{"id": "math-subtraction-0121", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 263 - 42.", "response": "221.", "answer_type": "exact"}
+{"id": "math-multiplication-0122", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 142 × 7.", "response": "994.", "answer_type": "exact"}
+{"id": "math-division-0123", "category": "math", "family": "division", "instruction": "Compute exactly: 612 / 4.", "response": "153.", "answer_type": "exact"}
+{"id": "math-sequence-0124", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 174, 181, 188, 195, ?", "response": "202.", "answer_type": "exact"}
+{"id": "math-addition-0125", "category": "math", "family": "addition", "instruction": "Compute exactly: 225 + 46.", "response": "271.", "answer_type": "exact"}
+{"id": "math-subtraction-0126", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 273 - 47.", "response": "226.", "answer_type": "exact"}
+{"id": "math-multiplication-0127", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 147 × 3.", "response": "441.", "answer_type": "exact"}
+{"id": "math-addition-0130", "category": "math", "family": "addition", "instruction": "Compute exactly: 230 + 8.", "response": "238.", "answer_type": "exact"}
+{"id": "math-subtraction-0131", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 240 - 9.", "response": "231.", "answer_type": "exact"}
+{"id": "math-multiplication-0132", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 152 × 8.", "response": "1216.", "answer_type": "exact"}
+{"id": "math-division-0133", "category": "math", "family": "division", "instruction": "Compute exactly: 489 / 3.", "response": "163.", "answer_type": "exact"}
+{"id": "math-sequence-0134", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 184, 187, 190, 193, ?", "response": "196.", "answer_type": "exact"}
+{"id": "math-addition-0135", "category": "math", "family": "addition", "instruction": "Compute exactly: 235 + 13.", "response": "248.", "answer_type": "exact"}
+{"id": "math-subtraction-0136", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 250 - 14.", "response": "236.", "answer_type": "exact"}
+{"id": "math-multiplication-0137", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 157 × 4.", "response": "628.", "answer_type": "exact"}
+{"id": "math-addition-0140", "category": "math", "family": "addition", "instruction": "Compute exactly: 240 + 18.", "response": "258.", "answer_type": "exact"}
+{"id": "math-subtraction-0141", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 260 - 19.", "response": "241.", "answer_type": "exact"}
+{"id": "math-multiplication-0142", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 162 × 9.", "response": "1458.", "answer_type": "exact"}
+{"id": "math-division-0143", "category": "math", "family": "division", "instruction": "Compute exactly: 346 / 2.", "response": "173.", "answer_type": "exact"}
+{"id": "math-sequence-0144", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 194, 200, 206, 212, ?", "response": "218.", "answer_type": "exact"}
+{"id": "math-addition-0145", "category": "math", "family": "addition", "instruction": "Compute exactly: 245 + 23.", "response": "268.", "answer_type": "exact"}
+{"id": "math-subtraction-0146", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 270 - 24.", "response": "246.", "answer_type": "exact"}
+{"id": "math-multiplication-0147", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 167 × 5.", "response": "835.", "answer_type": "exact"}
+{"id": "math-addition-0150", "category": "math", "family": "addition", "instruction": "Compute exactly: 250 + 28.", "response": "278.", "answer_type": "exact"}
+{"id": "math-subtraction-0151", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 280 - 29.", "response": "251.", "answer_type": "exact"}
+{"id": "math-multiplication-0152", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 172 × 10.", "response": "1720.", "answer_type": "exact"}
+{"id": "math-division-0153", "category": "math", "family": "division", "instruction": "Compute exactly: 2196 / 12.", "response": "183.", "answer_type": "exact"}
+{"id": "math-sequence-0154", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 204, 206, 208, 210, ?", "response": "212.", "answer_type": "exact"}
+{"id": "math-addition-0155", "category": "math", "family": "addition", "instruction": "Compute exactly: 255 + 33.", "response": "288.", "answer_type": "exact"}
+{"id": "math-subtraction-0156", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 290 - 34.", "response": "256.", "answer_type": "exact"}
+{"id": "math-multiplication-0157", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 177 × 6.", "response": "1062.", "answer_type": "exact"}
+{"id": "math-addition-0160", "category": "math", "family": "addition", "instruction": "Compute exactly: 260 + 38.", "response": "298.", "answer_type": "exact"}
+{"id": "math-subtraction-0161", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 300 - 39.", "response": "261.", "answer_type": "exact"}
+{"id": "math-multiplication-0162", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 182 × 2.", "response": "364.", "answer_type": "exact"}
+{"id": "math-division-0163", "category": "math", "family": "division", "instruction": "Compute exactly: 2123 / 11.", "response": "193.", "answer_type": "exact"}
+{"id": "math-sequence-0164", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 214, 219, 224, 229, ?", "response": "234.", "answer_type": "exact"}
+{"id": "math-addition-0165", "category": "math", "family": "addition", "instruction": "Compute exactly: 265 + 43.", "response": "308.", "answer_type": "exact"}
+{"id": "math-subtraction-0166", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 310 - 44.", "response": "266.", "answer_type": "exact"}
+{"id": "math-multiplication-0167", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 187 × 7.", "response": "1309.", "answer_type": "exact"}
+{"id": "math-addition-0170", "category": "math", "family": "addition", "instruction": "Compute exactly: 270 + 48.", "response": "318.", "answer_type": "exact"}
+{"id": "math-subtraction-0171", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 320 - 49.", "response": "271.", "answer_type": "exact"}
+{"id": "math-multiplication-0172", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 192 × 3.", "response": "576.", "answer_type": "exact"}
+{"id": "math-division-0173", "category": "math", "family": "division", "instruction": "Compute exactly: 2030 / 10.", "response": "203.", "answer_type": "exact"}
+{"id": "math-sequence-0174", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 224, 232, 240, 248, ?", "response": "256.", "answer_type": "exact"}
+{"id": "math-addition-0175", "category": "math", "family": "addition", "instruction": "Compute exactly: 275 + 10.", "response": "285.", "answer_type": "exact"}
+{"id": "math-subtraction-0176", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 287 - 11.", "response": "276.", "answer_type": "exact"}
+{"id": "math-multiplication-0177", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 197 × 8.", "response": "1576.", "answer_type": "exact"}
+{"id": "math-addition-0180", "category": "math", "family": "addition", "instruction": "Compute exactly: 280 + 15.", "response": "295.", "answer_type": "exact"}
+{"id": "math-subtraction-0181", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 297 - 16.", "response": "281.", "answer_type": "exact"}
+{"id": "math-multiplication-0182", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 202 × 4.", "response": "808.", "answer_type": "exact"}
+{"id": "math-division-0183", "category": "math", "family": "division", "instruction": "Compute exactly: 1917 / 9.", "response": "213.", "answer_type": "exact"}
+{"id": "math-sequence-0184", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 234, 238, 242, 246, ?", "response": "250.", "answer_type": "exact"}
+{"id": "math-addition-0185", "category": "math", "family": "addition", "instruction": "Compute exactly: 285 + 20.", "response": "305.", "answer_type": "exact"}
+{"id": "math-subtraction-0186", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 307 - 21.", "response": "286.", "answer_type": "exact"}
+{"id": "math-multiplication-0187", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 207 × 9.", "response": "1863.", "answer_type": "exact"}
+{"id": "math-addition-0190", "category": "math", "family": "addition", "instruction": "Compute exactly: 290 + 25.", "response": "315.", "answer_type": "exact"}
+{"id": "math-subtraction-0191", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 317 - 26.", "response": "291.", "answer_type": "exact"}
+{"id": "math-multiplication-0192", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 212 × 5.", "response": "1060.", "answer_type": "exact"}
+{"id": "math-division-0193", "category": "math", "family": "division", "instruction": "Compute exactly: 1784 / 8.", "response": "223.", "answer_type": "exact"}
+{"id": "math-sequence-0194", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 244, 251, 258, 265, ?", "response": "272.", "answer_type": "exact"}
+{"id": "math-addition-0195", "category": "math", "family": "addition", "instruction": "Compute exactly: 295 + 30.", "response": "325.", "answer_type": "exact"}
+{"id": "math-subtraction-0196", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 327 - 31.", "response": "296.", "answer_type": "exact"}
+{"id": "math-multiplication-0197", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 217 × 10.", "response": "2170.", "answer_type": "exact"}
+{"id": "math-addition-0200", "category": "math", "family": "addition", "instruction": "Compute exactly: 300 + 35.", "response": "335.", "answer_type": "exact"}
+{"id": "math-subtraction-0201", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 337 - 36.", "response": "301.", "answer_type": "exact"}
+{"id": "math-multiplication-0202", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 222 × 6.", "response": "1332.", "answer_type": "exact"}
+{"id": "math-division-0203", "category": "math", "family": "division", "instruction": "Compute exactly: 1631 / 7.", "response": "233.", "answer_type": "exact"}
+{"id": "math-sequence-0204", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 254, 257, 260, 263, ?", "response": "266.", "answer_type": "exact"}
+{"id": "math-addition-0205", "category": "math", "family": "addition", "instruction": "Compute exactly: 305 + 40.", "response": "345.", "answer_type": "exact"}
+{"id": "math-subtraction-0206", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 347 - 41.", "response": "306.", "answer_type": "exact"}
+{"id": "math-multiplication-0207", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 227 × 2.", "response": "454.", "answer_type": "exact"}
+{"id": "math-addition-0210", "category": "math", "family": "addition", "instruction": "Compute exactly: 310 + 45.", "response": "355.", "answer_type": "exact"}
+{"id": "math-subtraction-0211", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 357 - 46.", "response": "311.", "answer_type": "exact"}
+{"id": "math-multiplication-0212", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 232 × 7.", "response": "1624.", "answer_type": "exact"}
+{"id": "math-division-0213", "category": "math", "family": "division", "instruction": "Compute exactly: 1458 / 6.", "response": "243.", "answer_type": "exact"}
+{"id": "math-sequence-0214", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 264, 270, 276, 282, ?", "response": "288.", "answer_type": "exact"}
+{"id": "math-addition-0215", "category": "math", "family": "addition", "instruction": "Compute exactly: 315 + 7.", "response": "322.", "answer_type": "exact"}
+{"id": "math-subtraction-0216", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 324 - 8.", "response": "316.", "answer_type": "exact"}
+{"id": "math-multiplication-0217", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 237 × 3.", "response": "711.", "answer_type": "exact"}
+{"id": "math-addition-0220", "category": "math", "family": "addition", "instruction": "Compute exactly: 320 + 12.", "response": "332.", "answer_type": "exact"}
+{"id": "math-subtraction-0221", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 334 - 13.", "response": "321.", "answer_type": "exact"}
+{"id": "math-multiplication-0222", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 242 × 8.", "response": "1936.", "answer_type": "exact"}
+{"id": "math-division-0223", "category": "math", "family": "division", "instruction": "Compute exactly: 1265 / 5.", "response": "253.", "answer_type": "exact"}
+{"id": "math-sequence-0224", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 274, 276, 278, 280, ?", "response": "282.", "answer_type": "exact"}
+{"id": "math-addition-0225", "category": "math", "family": "addition", "instruction": "Compute exactly: 325 + 17.", "response": "342.", "answer_type": "exact"}
+{"id": "math-subtraction-0226", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 344 - 18.", "response": "326.", "answer_type": "exact"}
+{"id": "math-multiplication-0227", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 247 × 4.", "response": "988.", "answer_type": "exact"}
+{"id": "math-addition-0230", "category": "math", "family": "addition", "instruction": "Compute exactly: 330 + 22.", "response": "352.", "answer_type": "exact"}
+{"id": "math-subtraction-0231", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 354 - 23.", "response": "331.", "answer_type": "exact"}
+{"id": "math-multiplication-0232", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 252 × 9.", "response": "2268.", "answer_type": "exact"}
+{"id": "math-division-0233", "category": "math", "family": "division", "instruction": "Compute exactly: 1052 / 4.", "response": "263.", "answer_type": "exact"}
+{"id": "math-sequence-0234", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 284, 289, 294, 299, ?", "response": "304.", "answer_type": "exact"}
+{"id": "math-addition-0235", "category": "math", "family": "addition", "instruction": "Compute exactly: 335 + 27.", "response": "362.", "answer_type": "exact"}
+{"id": "math-subtraction-0236", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 364 - 28.", "response": "336.", "answer_type": "exact"}
+{"id": "math-multiplication-0237", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 257 × 5.", "response": "1285.", "answer_type": "exact"}
+{"id": "math-addition-0240", "category": "math", "family": "addition", "instruction": "Compute exactly: 340 + 32.", "response": "372.", "answer_type": "exact"}
+{"id": "math-subtraction-0241", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 374 - 33.", "response": "341.", "answer_type": "exact"}
+{"id": "math-multiplication-0242", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 262 × 10.", "response": "2620.", "answer_type": "exact"}
+{"id": "math-division-0243", "category": "math", "family": "division", "instruction": "Compute exactly: 819 / 3.", "response": "273.", "answer_type": "exact"}
+{"id": "math-sequence-0244", "category": "math", "family": "sequence", "instruction": "Give the next number in this sequence: 294, 302, 310, 318, ?", "response": "326.", "answer_type": "exact"}
+{"id": "math-addition-0245", "category": "math", "family": "addition", "instruction": "Compute exactly: 345 + 37.", "response": "382.", "answer_type": "exact"}
+{"id": "math-subtraction-0246", "category": "math", "family": "subtraction", "instruction": "Compute exactly: 384 - 38.", "response": "346.", "answer_type": "exact"}
+{"id": "math-multiplication-0247", "category": "math", "family": "multiplication", "instruction": "Compute exactly: 267 × 6.", "response": "1602.", "answer_type": "exact"}
+{"id": "python-expression-0000", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 100.", "response": "100 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0001", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(101)) return in Python?", "response": "5050.", "answer_type": "exact"}
+{"id": "python-string_length-0002", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_002') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0003", "category": "python", "family": "list_index", "instruction": "Given values = [103, 106, 109], return the value of values[1].", "response": "106.", "answer_type": "exact"}
+{"id": "python-boolean-0004", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 104 < 105?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0005", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 105.", "response": "105 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0006", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(106)) return in Python?", "response": "5565.", "answer_type": "exact"}
+{"id": "python-string_length-0007", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_007') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0010", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 110.", "response": "110 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0011", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(111)) return in Python?", "response": "6105.", "answer_type": "exact"}
+{"id": "python-string_length-0012", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_012') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0013", "category": "python", "family": "list_index", "instruction": "Given values = [113, 116, 119], return the value of values[1].", "response": "116.", "answer_type": "exact"}
+{"id": "python-boolean-0014", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 114 < 115?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0015", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 115.", "response": "115 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0016", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(116)) return in Python?", "response": "6670.", "answer_type": "exact"}
+{"id": "python-string_length-0017", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_017') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0020", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 120.", "response": "120 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0021", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(121)) return in Python?", "response": "7260.", "answer_type": "exact"}
+{"id": "python-string_length-0022", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_022') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0023", "category": "python", "family": "list_index", "instruction": "Given values = [123, 126, 129], return the value of values[1].", "response": "126.", "answer_type": "exact"}
+{"id": "python-boolean-0024", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 124 < 125?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0025", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 125.", "response": "125 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0026", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(126)) return in Python?", "response": "7875.", "answer_type": "exact"}
+{"id": "python-string_length-0027", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_027') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0030", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 130.", "response": "130 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0031", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(131)) return in Python?", "response": "8515.", "answer_type": "exact"}
+{"id": "python-string_length-0032", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_032') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0033", "category": "python", "family": "list_index", "instruction": "Given values = [133, 136, 139], return the value of values[1].", "response": "136.", "answer_type": "exact"}
+{"id": "python-boolean-0034", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 134 < 135?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0035", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 135.", "response": "135 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0036", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(136)) return in Python?", "response": "9180.", "answer_type": "exact"}
+{"id": "python-string_length-0037", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_037') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0040", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 140.", "response": "140 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0041", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(141)) return in Python?", "response": "9870.", "answer_type": "exact"}
+{"id": "python-string_length-0042", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_042') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0043", "category": "python", "family": "list_index", "instruction": "Given values = [143, 146, 149], return the value of values[1].", "response": "146.", "answer_type": "exact"}
+{"id": "python-boolean-0044", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 144 < 145?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0045", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 145.", "response": "145 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0046", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(146)) return in Python?", "response": "10585.", "answer_type": "exact"}
+{"id": "python-string_length-0047", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_047') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0050", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 150.", "response": "150 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0051", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(151)) return in Python?", "response": "11325.", "answer_type": "exact"}
+{"id": "python-string_length-0052", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_052') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0053", "category": "python", "family": "list_index", "instruction": "Given values = [153, 156, 159], return the value of values[1].", "response": "156.", "answer_type": "exact"}
+{"id": "python-boolean-0054", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 154 < 155?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0055", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 155.", "response": "155 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0056", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(156)) return in Python?", "response": "12090.", "answer_type": "exact"}
+{"id": "python-string_length-0057", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_057') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0060", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 160.", "response": "160 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0061", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(161)) return in Python?", "response": "12880.", "answer_type": "exact"}
+{"id": "python-string_length-0062", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_062') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0063", "category": "python", "family": "list_index", "instruction": "Given values = [163, 166, 169], return the value of values[1].", "response": "166.", "answer_type": "exact"}
+{"id": "python-boolean-0064", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 164 < 165?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0065", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 165.", "response": "165 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0066", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(166)) return in Python?", "response": "13695.", "answer_type": "exact"}
+{"id": "python-string_length-0067", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_067') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0070", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 170.", "response": "170 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0071", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(171)) return in Python?", "response": "14535.", "answer_type": "exact"}
+{"id": "python-string_length-0072", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_072') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0073", "category": "python", "family": "list_index", "instruction": "Given values = [173, 176, 179], return the value of values[1].", "response": "176.", "answer_type": "exact"}
+{"id": "python-boolean-0074", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 174 < 175?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0075", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 175.", "response": "175 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0076", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(176)) return in Python?", "response": "15400.", "answer_type": "exact"}
+{"id": "python-string_length-0077", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_077') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0080", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 180.", "response": "180 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0081", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(181)) return in Python?", "response": "16290.", "answer_type": "exact"}
+{"id": "python-string_length-0082", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_082') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0083", "category": "python", "family": "list_index", "instruction": "Given values = [183, 186, 189], return the value of values[1].", "response": "186.", "answer_type": "exact"}
+{"id": "python-boolean-0084", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 184 < 185?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0085", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 185.", "response": "185 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0086", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(186)) return in Python?", "response": "17205.", "answer_type": "exact"}
+{"id": "python-string_length-0087", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_087') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0090", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 190.", "response": "190 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0091", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(191)) return in Python?", "response": "18145.", "answer_type": "exact"}
+{"id": "python-string_length-0092", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_092') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0093", "category": "python", "family": "list_index", "instruction": "Given values = [193, 196, 199], return the value of values[1].", "response": "196.", "answer_type": "exact"}
+{"id": "python-boolean-0094", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 194 < 195?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0095", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 195.", "response": "195 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0096", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(196)) return in Python?", "response": "19110.", "answer_type": "exact"}
+{"id": "python-string_length-0097", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_097') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0100", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 200.", "response": "200 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0101", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(201)) return in Python?", "response": "20100.", "answer_type": "exact"}
+{"id": "python-string_length-0102", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_102') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0103", "category": "python", "family": "list_index", "instruction": "Given values = [203, 206, 209], return the value of values[1].", "response": "206.", "answer_type": "exact"}
+{"id": "python-boolean-0104", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 204 < 205?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0105", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 205.", "response": "205 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0106", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(206)) return in Python?", "response": "21115.", "answer_type": "exact"}
+{"id": "python-string_length-0107", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_107') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0110", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 210.", "response": "210 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0111", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(211)) return in Python?", "response": "22155.", "answer_type": "exact"}
+{"id": "python-string_length-0112", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_112') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0113", "category": "python", "family": "list_index", "instruction": "Given values = [213, 216, 219], return the value of values[1].", "response": "216.", "answer_type": "exact"}
+{"id": "python-boolean-0114", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 214 < 215?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0115", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 215.", "response": "215 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0116", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(216)) return in Python?", "response": "23220.", "answer_type": "exact"}
+{"id": "python-string_length-0117", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_117') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0120", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 220.", "response": "220 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0121", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(221)) return in Python?", "response": "24310.", "answer_type": "exact"}
+{"id": "python-string_length-0122", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_122') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0123", "category": "python", "family": "list_index", "instruction": "Given values = [223, 226, 229], return the value of values[1].", "response": "226.", "answer_type": "exact"}
+{"id": "python-boolean-0124", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 224 < 225?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0125", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 225.", "response": "225 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0126", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(226)) return in Python?", "response": "25425.", "answer_type": "exact"}
+{"id": "python-string_length-0127", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_127') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0130", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 230.", "response": "230 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0131", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(231)) return in Python?", "response": "26565.", "answer_type": "exact"}
+{"id": "python-string_length-0132", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_132') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0133", "category": "python", "family": "list_index", "instruction": "Given values = [233, 236, 239], return the value of values[1].", "response": "236.", "answer_type": "exact"}
+{"id": "python-boolean-0134", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 234 < 235?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0135", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 235.", "response": "235 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0136", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(236)) return in Python?", "response": "27730.", "answer_type": "exact"}
+{"id": "python-string_length-0137", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_137') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0140", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 240.", "response": "240 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0141", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(241)) return in Python?", "response": "28920.", "answer_type": "exact"}
+{"id": "python-string_length-0142", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_142') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0143", "category": "python", "family": "list_index", "instruction": "Given values = [243, 246, 249], return the value of values[1].", "response": "246.", "answer_type": "exact"}
+{"id": "python-boolean-0144", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 244 < 245?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0145", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 245.", "response": "245 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0146", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(246)) return in Python?", "response": "30135.", "answer_type": "exact"}
+{"id": "python-string_length-0147", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_147') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0150", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 250.", "response": "250 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0151", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(251)) return in Python?", "response": "31375.", "answer_type": "exact"}
+{"id": "python-string_length-0152", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_152') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0153", "category": "python", "family": "list_index", "instruction": "Given values = [253, 256, 259], return the value of values[1].", "response": "256.", "answer_type": "exact"}
+{"id": "python-boolean-0154", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 254 < 255?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0155", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 255.", "response": "255 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0156", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(256)) return in Python?", "response": "32640.", "answer_type": "exact"}
+{"id": "python-string_length-0157", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_157') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0160", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 260.", "response": "260 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0161", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(261)) return in Python?", "response": "33930.", "answer_type": "exact"}
+{"id": "python-string_length-0162", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_162') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0163", "category": "python", "family": "list_index", "instruction": "Given values = [263, 266, 269], return the value of values[1].", "response": "266.", "answer_type": "exact"}
+{"id": "python-boolean-0164", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 264 < 265?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0165", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 265.", "response": "265 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0166", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(266)) return in Python?", "response": "35245.", "answer_type": "exact"}
+{"id": "python-string_length-0167", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_167') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0170", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 270.", "response": "270 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0171", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(271)) return in Python?", "response": "36585.", "answer_type": "exact"}
+{"id": "python-string_length-0172", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_172') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0173", "category": "python", "family": "list_index", "instruction": "Given values = [273, 276, 279], return the value of values[1].", "response": "276.", "answer_type": "exact"}
+{"id": "python-boolean-0174", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 274 < 275?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0175", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 275.", "response": "275 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0176", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(276)) return in Python?", "response": "37950.", "answer_type": "exact"}
+{"id": "python-string_length-0177", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_177') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0180", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 280.", "response": "280 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0181", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(281)) return in Python?", "response": "39340.", "answer_type": "exact"}
+{"id": "python-string_length-0182", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_182') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0183", "category": "python", "family": "list_index", "instruction": "Given values = [283, 286, 289], return the value of values[1].", "response": "286.", "answer_type": "exact"}
+{"id": "python-boolean-0184", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 284 < 285?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0185", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 285.", "response": "285 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0186", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(286)) return in Python?", "response": "40755.", "answer_type": "exact"}
+{"id": "python-string_length-0187", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_187') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0190", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 290.", "response": "290 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0191", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(291)) return in Python?", "response": "42195.", "answer_type": "exact"}
+{"id": "python-string_length-0192", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_192') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0193", "category": "python", "family": "list_index", "instruction": "Given values = [293, 296, 299], return the value of values[1].", "response": "296.", "answer_type": "exact"}
+{"id": "python-boolean-0194", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 294 < 295?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0195", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 295.", "response": "295 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0196", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(296)) return in Python?", "response": "43660.", "answer_type": "exact"}
+{"id": "python-string_length-0197", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_197') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0200", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 300.", "response": "300 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0201", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(301)) return in Python?", "response": "45150.", "answer_type": "exact"}
+{"id": "python-string_length-0202", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_202') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0203", "category": "python", "family": "list_index", "instruction": "Given values = [303, 306, 309], return the value of values[1].", "response": "306.", "answer_type": "exact"}
+{"id": "python-boolean-0204", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 304 < 305?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0205", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 305.", "response": "305 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0206", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(306)) return in Python?", "response": "46665.", "answer_type": "exact"}
+{"id": "python-string_length-0207", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_207') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0210", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 310.", "response": "310 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0211", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(311)) return in Python?", "response": "48205.", "answer_type": "exact"}
+{"id": "python-string_length-0212", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_212') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0213", "category": "python", "family": "list_index", "instruction": "Given values = [313, 316, 319], return the value of values[1].", "response": "316.", "answer_type": "exact"}
+{"id": "python-boolean-0214", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 314 < 315?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0215", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 315.", "response": "315 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0216", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(316)) return in Python?", "response": "49770.", "answer_type": "exact"}
+{"id": "python-string_length-0217", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_217') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0220", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 320.", "response": "320 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0221", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(321)) return in Python?", "response": "51360.", "answer_type": "exact"}
+{"id": "python-string_length-0222", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_222') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0223", "category": "python", "family": "list_index", "instruction": "Given values = [323, 326, 329], return the value of values[1].", "response": "326.", "answer_type": "exact"}
+{"id": "python-boolean-0224", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 324 < 325?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0225", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 325.", "response": "325 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0226", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(326)) return in Python?", "response": "52975.", "answer_type": "exact"}
+{"id": "python-string_length-0227", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_227') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0230", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 330.", "response": "330 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0231", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(331)) return in Python?", "response": "54615.", "answer_type": "exact"}
+{"id": "python-string_length-0232", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_232') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0233", "category": "python", "family": "list_index", "instruction": "Given values = [333, 336, 339], return the value of values[1].", "response": "336.", "answer_type": "exact"}
+{"id": "python-boolean-0234", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 334 < 335?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0235", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 335.", "response": "335 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0236", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(336)) return in Python?", "response": "56280.", "answer_type": "exact"}
+{"id": "python-string_length-0237", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_237') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-expression-0240", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 340.", "response": "340 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0241", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(341)) return in Python?", "response": "57970.", "answer_type": "exact"}
+{"id": "python-string_length-0242", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_242') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "python-list_index-0243", "category": "python", "family": "list_index", "instruction": "Given values = [343, 346, 349], return the value of values[1].", "response": "346.", "answer_type": "exact"}
+{"id": "python-boolean-0244", "category": "python", "family": "boolean", "instruction": "In Python, what Boolean value results from the comparison 344 < 345?", "response": "True.", "answer_type": "exact"}
+{"id": "python-expression-0245", "category": "python", "family": "expression", "instruction": "Write the Python exponentiation expression that squares the integer 345.", "response": "345 ** 2", "answer_type": "exact"}
+{"id": "python-range_sum-0246", "category": "python", "family": "range_sum", "instruction": "What integer does sum(range(346)) return in Python?", "response": "59685.", "answer_type": "exact"}
+{"id": "python-string_length-0247", "category": "python", "family": "string_length", "instruction": "What integer does len('maia_validation_247') return in Python?", "response": "19.", "answer_type": "exact"}
+{"id": "science-binary-0000", "category": "science", "family": "binary", "instruction": "Convert decimal integer 32 to binary notation without a prefix.", "response": "100000.", "answer_type": "exact"}
+{"id": "science-bytes-0001", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 3 KiB?", "response": "3072.", "answer_type": "exact"}
+{"id": "science-causal_attention-0002", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 102 attend to future token position 103?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0003", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 40 bits?", "response": "5.", "answer_type": "exact"}
+{"id": "science-milliseconds-0004", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 6000 milliseconds?", "response": "6.", "answer_type": "exact"}
+{"id": "science-binary-0005", "category": "science", "family": "binary", "instruction": "Convert decimal integer 37 to binary notation without a prefix.", "response": "100101.", "answer_type": "exact"}
+{"id": "science-bytes-0006", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 8 KiB?", "response": "8192.", "answer_type": "exact"}
+{"id": "science-causal_attention-0007", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 107 attend to future token position 108?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0010", "category": "science", "family": "binary", "instruction": "Convert decimal integer 42 to binary notation without a prefix.", "response": "101010.", "answer_type": "exact"}
+{"id": "science-bytes-0011", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 13 KiB?", "response": "13312.", "answer_type": "exact"}
+{"id": "science-causal_attention-0012", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 112 attend to future token position 113?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0013", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 120 bits?", "response": "15.", "answer_type": "exact"}
+{"id": "science-milliseconds-0014", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 16000 milliseconds?", "response": "16.", "answer_type": "exact"}
+{"id": "science-binary-0015", "category": "science", "family": "binary", "instruction": "Convert decimal integer 47 to binary notation without a prefix.", "response": "101111.", "answer_type": "exact"}
+{"id": "science-bytes-0016", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 18 KiB?", "response": "18432.", "answer_type": "exact"}
+{"id": "science-causal_attention-0017", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 117 attend to future token position 118?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0020", "category": "science", "family": "binary", "instruction": "Convert decimal integer 52 to binary notation without a prefix.", "response": "110100.", "answer_type": "exact"}
+{"id": "science-bytes-0021", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 23 KiB?", "response": "23552.", "answer_type": "exact"}
+{"id": "science-causal_attention-0022", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 122 attend to future token position 123?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0023", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 200 bits?", "response": "25.", "answer_type": "exact"}
+{"id": "science-milliseconds-0024", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 26000 milliseconds?", "response": "26.", "answer_type": "exact"}
+{"id": "science-binary-0025", "category": "science", "family": "binary", "instruction": "Convert decimal integer 57 to binary notation without a prefix.", "response": "111001.", "answer_type": "exact"}
+{"id": "science-bytes-0026", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 28 KiB?", "response": "28672.", "answer_type": "exact"}
+{"id": "science-causal_attention-0027", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 127 attend to future token position 128?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0030", "category": "science", "family": "binary", "instruction": "Convert decimal integer 62 to binary notation without a prefix.", "response": "111110.", "answer_type": "exact"}
+{"id": "science-bytes-0031", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 33 KiB?", "response": "33792.", "answer_type": "exact"}
+{"id": "science-causal_attention-0032", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 132 attend to future token position 133?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0033", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 280 bits?", "response": "35.", "answer_type": "exact"}
+{"id": "science-milliseconds-0034", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 36000 milliseconds?", "response": "36.", "answer_type": "exact"}
+{"id": "science-binary-0035", "category": "science", "family": "binary", "instruction": "Convert decimal integer 67 to binary notation without a prefix.", "response": "1000011.", "answer_type": "exact"}
+{"id": "science-bytes-0036", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 38 KiB?", "response": "38912.", "answer_type": "exact"}
+{"id": "science-causal_attention-0037", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 137 attend to future token position 138?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0040", "category": "science", "family": "binary", "instruction": "Convert decimal integer 72 to binary notation without a prefix.", "response": "1001000.", "answer_type": "exact"}
+{"id": "science-bytes-0041", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 43 KiB?", "response": "44032.", "answer_type": "exact"}
+{"id": "science-causal_attention-0042", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 142 attend to future token position 143?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0043", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 360 bits?", "response": "45.", "answer_type": "exact"}
+{"id": "science-milliseconds-0044", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 46000 milliseconds?", "response": "46.", "answer_type": "exact"}
+{"id": "science-binary-0045", "category": "science", "family": "binary", "instruction": "Convert decimal integer 77 to binary notation without a prefix.", "response": "1001101.", "answer_type": "exact"}
+{"id": "science-bytes-0046", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 48 KiB?", "response": "49152.", "answer_type": "exact"}
+{"id": "science-causal_attention-0047", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 147 attend to future token position 148?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0050", "category": "science", "family": "binary", "instruction": "Convert decimal integer 82 to binary notation without a prefix.", "response": "1010010.", "answer_type": "exact"}
+{"id": "science-bytes-0051", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 53 KiB?", "response": "54272.", "answer_type": "exact"}
+{"id": "science-causal_attention-0052", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 152 attend to future token position 153?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0053", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 440 bits?", "response": "55.", "answer_type": "exact"}
+{"id": "science-milliseconds-0054", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 56000 milliseconds?", "response": "56.", "answer_type": "exact"}
+{"id": "science-binary-0055", "category": "science", "family": "binary", "instruction": "Convert decimal integer 87 to binary notation without a prefix.", "response": "1010111.", "answer_type": "exact"}
+{"id": "science-bytes-0056", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 58 KiB?", "response": "59392.", "answer_type": "exact"}
+{"id": "science-causal_attention-0057", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 157 attend to future token position 158?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0060", "category": "science", "family": "binary", "instruction": "Convert decimal integer 92 to binary notation without a prefix.", "response": "1011100.", "answer_type": "exact"}
+{"id": "science-bytes-0061", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 63 KiB?", "response": "64512.", "answer_type": "exact"}
+{"id": "science-causal_attention-0062", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 162 attend to future token position 163?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0063", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 520 bits?", "response": "65.", "answer_type": "exact"}
+{"id": "science-milliseconds-0064", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 66000 milliseconds?", "response": "66.", "answer_type": "exact"}
+{"id": "science-binary-0065", "category": "science", "family": "binary", "instruction": "Convert decimal integer 97 to binary notation without a prefix.", "response": "1100001.", "answer_type": "exact"}
+{"id": "science-bytes-0066", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 68 KiB?", "response": "69632.", "answer_type": "exact"}
+{"id": "science-causal_attention-0067", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 167 attend to future token position 168?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0070", "category": "science", "family": "binary", "instruction": "Convert decimal integer 102 to binary notation without a prefix.", "response": "1100110.", "answer_type": "exact"}
+{"id": "science-bytes-0071", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 73 KiB?", "response": "74752.", "answer_type": "exact"}
+{"id": "science-causal_attention-0072", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 172 attend to future token position 173?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0073", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 600 bits?", "response": "75.", "answer_type": "exact"}
+{"id": "science-milliseconds-0074", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 76000 milliseconds?", "response": "76.", "answer_type": "exact"}
+{"id": "science-binary-0075", "category": "science", "family": "binary", "instruction": "Convert decimal integer 107 to binary notation without a prefix.", "response": "1101011.", "answer_type": "exact"}
+{"id": "science-bytes-0076", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 78 KiB?", "response": "79872.", "answer_type": "exact"}
+{"id": "science-causal_attention-0077", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 177 attend to future token position 178?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0080", "category": "science", "family": "binary", "instruction": "Convert decimal integer 112 to binary notation without a prefix.", "response": "1110000.", "answer_type": "exact"}
+{"id": "science-bytes-0081", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 83 KiB?", "response": "84992.", "answer_type": "exact"}
+{"id": "science-causal_attention-0082", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 182 attend to future token position 183?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0083", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 680 bits?", "response": "85.", "answer_type": "exact"}
+{"id": "science-milliseconds-0084", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 86000 milliseconds?", "response": "86.", "answer_type": "exact"}
+{"id": "science-binary-0085", "category": "science", "family": "binary", "instruction": "Convert decimal integer 117 to binary notation without a prefix.", "response": "1110101.", "answer_type": "exact"}
+{"id": "science-bytes-0086", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 88 KiB?", "response": "90112.", "answer_type": "exact"}
+{"id": "science-causal_attention-0087", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 187 attend to future token position 188?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0090", "category": "science", "family": "binary", "instruction": "Convert decimal integer 122 to binary notation without a prefix.", "response": "1111010.", "answer_type": "exact"}
+{"id": "science-bytes-0091", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 93 KiB?", "response": "95232.", "answer_type": "exact"}
+{"id": "science-causal_attention-0092", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 192 attend to future token position 193?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0093", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 760 bits?", "response": "95.", "answer_type": "exact"}
+{"id": "science-milliseconds-0094", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 96000 milliseconds?", "response": "96.", "answer_type": "exact"}
+{"id": "science-binary-0095", "category": "science", "family": "binary", "instruction": "Convert decimal integer 127 to binary notation without a prefix.", "response": "1111111.", "answer_type": "exact"}
+{"id": "science-bytes-0096", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 98 KiB?", "response": "100352.", "answer_type": "exact"}
+{"id": "science-causal_attention-0097", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 197 attend to future token position 198?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0100", "category": "science", "family": "binary", "instruction": "Convert decimal integer 132 to binary notation without a prefix.", "response": "10000100.", "answer_type": "exact"}
+{"id": "science-bytes-0101", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 103 KiB?", "response": "105472.", "answer_type": "exact"}
+{"id": "science-causal_attention-0102", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 202 attend to future token position 203?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0103", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 840 bits?", "response": "105.", "answer_type": "exact"}
+{"id": "science-milliseconds-0104", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 106000 milliseconds?", "response": "106.", "answer_type": "exact"}
+{"id": "science-binary-0105", "category": "science", "family": "binary", "instruction": "Convert decimal integer 137 to binary notation without a prefix.", "response": "10001001.", "answer_type": "exact"}
+{"id": "science-bytes-0106", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 108 KiB?", "response": "110592.", "answer_type": "exact"}
+{"id": "science-causal_attention-0107", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 207 attend to future token position 208?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0110", "category": "science", "family": "binary", "instruction": "Convert decimal integer 142 to binary notation without a prefix.", "response": "10001110.", "answer_type": "exact"}
+{"id": "science-bytes-0111", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 113 KiB?", "response": "115712.", "answer_type": "exact"}
+{"id": "science-causal_attention-0112", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 212 attend to future token position 213?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0113", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 920 bits?", "response": "115.", "answer_type": "exact"}
+{"id": "science-milliseconds-0114", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 116000 milliseconds?", "response": "116.", "answer_type": "exact"}
+{"id": "science-binary-0115", "category": "science", "family": "binary", "instruction": "Convert decimal integer 147 to binary notation without a prefix.", "response": "10010011.", "answer_type": "exact"}
+{"id": "science-bytes-0116", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 118 KiB?", "response": "120832.", "answer_type": "exact"}
+{"id": "science-causal_attention-0117", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 217 attend to future token position 218?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0120", "category": "science", "family": "binary", "instruction": "Convert decimal integer 152 to binary notation without a prefix.", "response": "10011000.", "answer_type": "exact"}
+{"id": "science-bytes-0121", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 123 KiB?", "response": "125952.", "answer_type": "exact"}
+{"id": "science-causal_attention-0122", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 222 attend to future token position 223?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0123", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1000 bits?", "response": "125.", "answer_type": "exact"}
+{"id": "science-milliseconds-0124", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 126000 milliseconds?", "response": "126.", "answer_type": "exact"}
+{"id": "science-binary-0125", "category": "science", "family": "binary", "instruction": "Convert decimal integer 157 to binary notation without a prefix.", "response": "10011101.", "answer_type": "exact"}
+{"id": "science-bytes-0126", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 128 KiB?", "response": "131072.", "answer_type": "exact"}
+{"id": "science-causal_attention-0127", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 227 attend to future token position 228?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0130", "category": "science", "family": "binary", "instruction": "Convert decimal integer 162 to binary notation without a prefix.", "response": "10100010.", "answer_type": "exact"}
+{"id": "science-bytes-0131", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 133 KiB?", "response": "136192.", "answer_type": "exact"}
+{"id": "science-causal_attention-0132", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 232 attend to future token position 233?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0133", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1080 bits?", "response": "135.", "answer_type": "exact"}
+{"id": "science-milliseconds-0134", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 136000 milliseconds?", "response": "136.", "answer_type": "exact"}
+{"id": "science-binary-0135", "category": "science", "family": "binary", "instruction": "Convert decimal integer 167 to binary notation without a prefix.", "response": "10100111.", "answer_type": "exact"}
+{"id": "science-bytes-0136", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 138 KiB?", "response": "141312.", "answer_type": "exact"}
+{"id": "science-causal_attention-0137", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 237 attend to future token position 238?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0140", "category": "science", "family": "binary", "instruction": "Convert decimal integer 172 to binary notation without a prefix.", "response": "10101100.", "answer_type": "exact"}
+{"id": "science-bytes-0141", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 143 KiB?", "response": "146432.", "answer_type": "exact"}
+{"id": "science-causal_attention-0142", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 242 attend to future token position 243?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0143", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1160 bits?", "response": "145.", "answer_type": "exact"}
+{"id": "science-milliseconds-0144", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 146000 milliseconds?", "response": "146.", "answer_type": "exact"}
+{"id": "science-binary-0145", "category": "science", "family": "binary", "instruction": "Convert decimal integer 177 to binary notation without a prefix.", "response": "10110001.", "answer_type": "exact"}
+{"id": "science-bytes-0146", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 148 KiB?", "response": "151552.", "answer_type": "exact"}
+{"id": "science-causal_attention-0147", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 247 attend to future token position 248?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0150", "category": "science", "family": "binary", "instruction": "Convert decimal integer 182 to binary notation without a prefix.", "response": "10110110.", "answer_type": "exact"}
+{"id": "science-bytes-0151", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 153 KiB?", "response": "156672.", "answer_type": "exact"}
+{"id": "science-causal_attention-0152", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 252 attend to future token position 253?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0153", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1240 bits?", "response": "155.", "answer_type": "exact"}
+{"id": "science-milliseconds-0154", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 156000 milliseconds?", "response": "156.", "answer_type": "exact"}
+{"id": "science-binary-0155", "category": "science", "family": "binary", "instruction": "Convert decimal integer 187 to binary notation without a prefix.", "response": "10111011.", "answer_type": "exact"}
+{"id": "science-bytes-0156", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 158 KiB?", "response": "161792.", "answer_type": "exact"}
+{"id": "science-causal_attention-0157", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 257 attend to future token position 258?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0160", "category": "science", "family": "binary", "instruction": "Convert decimal integer 192 to binary notation without a prefix.", "response": "11000000.", "answer_type": "exact"}
+{"id": "science-bytes-0161", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 163 KiB?", "response": "166912.", "answer_type": "exact"}
+{"id": "science-causal_attention-0162", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 262 attend to future token position 263?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0163", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1320 bits?", "response": "165.", "answer_type": "exact"}
+{"id": "science-milliseconds-0164", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 166000 milliseconds?", "response": "166.", "answer_type": "exact"}
+{"id": "science-binary-0165", "category": "science", "family": "binary", "instruction": "Convert decimal integer 197 to binary notation without a prefix.", "response": "11000101.", "answer_type": "exact"}
+{"id": "science-bytes-0166", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 168 KiB?", "response": "172032.", "answer_type": "exact"}
+{"id": "science-causal_attention-0167", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 267 attend to future token position 268?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0170", "category": "science", "family": "binary", "instruction": "Convert decimal integer 202 to binary notation without a prefix.", "response": "11001010.", "answer_type": "exact"}
+{"id": "science-bytes-0171", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 173 KiB?", "response": "177152.", "answer_type": "exact"}
+{"id": "science-causal_attention-0172", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 272 attend to future token position 273?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0173", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1400 bits?", "response": "175.", "answer_type": "exact"}
+{"id": "science-milliseconds-0174", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 176000 milliseconds?", "response": "176.", "answer_type": "exact"}
+{"id": "science-binary-0175", "category": "science", "family": "binary", "instruction": "Convert decimal integer 207 to binary notation without a prefix.", "response": "11001111.", "answer_type": "exact"}
+{"id": "science-bytes-0176", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 178 KiB?", "response": "182272.", "answer_type": "exact"}
+{"id": "science-causal_attention-0177", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 277 attend to future token position 278?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0180", "category": "science", "family": "binary", "instruction": "Convert decimal integer 212 to binary notation without a prefix.", "response": "11010100.", "answer_type": "exact"}
+{"id": "science-bytes-0181", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 183 KiB?", "response": "187392.", "answer_type": "exact"}
+{"id": "science-causal_attention-0182", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 282 attend to future token position 283?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0183", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1480 bits?", "response": "185.", "answer_type": "exact"}
+{"id": "science-milliseconds-0184", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 186000 milliseconds?", "response": "186.", "answer_type": "exact"}
+{"id": "science-binary-0185", "category": "science", "family": "binary", "instruction": "Convert decimal integer 217 to binary notation without a prefix.", "response": "11011001.", "answer_type": "exact"}
+{"id": "science-bytes-0186", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 188 KiB?", "response": "192512.", "answer_type": "exact"}
+{"id": "science-causal_attention-0187", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 287 attend to future token position 288?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0190", "category": "science", "family": "binary", "instruction": "Convert decimal integer 222 to binary notation without a prefix.", "response": "11011110.", "answer_type": "exact"}
+{"id": "science-bytes-0191", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 193 KiB?", "response": "197632.", "answer_type": "exact"}
+{"id": "science-causal_attention-0192", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 292 attend to future token position 293?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0193", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1560 bits?", "response": "195.", "answer_type": "exact"}
+{"id": "science-milliseconds-0194", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 196000 milliseconds?", "response": "196.", "answer_type": "exact"}
+{"id": "science-binary-0195", "category": "science", "family": "binary", "instruction": "Convert decimal integer 227 to binary notation without a prefix.", "response": "11100011.", "answer_type": "exact"}
+{"id": "science-bytes-0196", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 198 KiB?", "response": "202752.", "answer_type": "exact"}
+{"id": "science-causal_attention-0197", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 297 attend to future token position 298?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0200", "category": "science", "family": "binary", "instruction": "Convert decimal integer 232 to binary notation without a prefix.", "response": "11101000.", "answer_type": "exact"}
+{"id": "science-bytes-0201", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 203 KiB?", "response": "207872.", "answer_type": "exact"}
+{"id": "science-causal_attention-0202", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 302 attend to future token position 303?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0203", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1640 bits?", "response": "205.", "answer_type": "exact"}
+{"id": "science-milliseconds-0204", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 206000 milliseconds?", "response": "206.", "answer_type": "exact"}
+{"id": "science-binary-0205", "category": "science", "family": "binary", "instruction": "Convert decimal integer 237 to binary notation without a prefix.", "response": "11101101.", "answer_type": "exact"}
+{"id": "science-bytes-0206", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 208 KiB?", "response": "212992.", "answer_type": "exact"}
+{"id": "science-causal_attention-0207", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 307 attend to future token position 308?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0210", "category": "science", "family": "binary", "instruction": "Convert decimal integer 242 to binary notation without a prefix.", "response": "11110010.", "answer_type": "exact"}
+{"id": "science-bytes-0211", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 213 KiB?", "response": "218112.", "answer_type": "exact"}
+{"id": "science-causal_attention-0212", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 312 attend to future token position 313?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0213", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1720 bits?", "response": "215.", "answer_type": "exact"}
+{"id": "science-milliseconds-0214", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 216000 milliseconds?", "response": "216.", "answer_type": "exact"}
+{"id": "science-binary-0215", "category": "science", "family": "binary", "instruction": "Convert decimal integer 247 to binary notation without a prefix.", "response": "11110111.", "answer_type": "exact"}
+{"id": "science-bytes-0216", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 218 KiB?", "response": "223232.", "answer_type": "exact"}
+{"id": "science-causal_attention-0217", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 317 attend to future token position 318?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0220", "category": "science", "family": "binary", "instruction": "Convert decimal integer 252 to binary notation without a prefix.", "response": "11111100.", "answer_type": "exact"}
+{"id": "science-bytes-0221", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 223 KiB?", "response": "228352.", "answer_type": "exact"}
+{"id": "science-causal_attention-0222", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 322 attend to future token position 323?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0223", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1800 bits?", "response": "225.", "answer_type": "exact"}
+{"id": "science-milliseconds-0224", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 226000 milliseconds?", "response": "226.", "answer_type": "exact"}
+{"id": "science-binary-0225", "category": "science", "family": "binary", "instruction": "Convert decimal integer 257 to binary notation without a prefix.", "response": "100000001.", "answer_type": "exact"}
+{"id": "science-bytes-0226", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 228 KiB?", "response": "233472.", "answer_type": "exact"}
+{"id": "science-causal_attention-0227", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 327 attend to future token position 328?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0230", "category": "science", "family": "binary", "instruction": "Convert decimal integer 262 to binary notation without a prefix.", "response": "100000110.", "answer_type": "exact"}
+{"id": "science-bytes-0231", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 233 KiB?", "response": "238592.", "answer_type": "exact"}
+{"id": "science-causal_attention-0232", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 332 attend to future token position 333?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0233", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1880 bits?", "response": "235.", "answer_type": "exact"}
+{"id": "science-milliseconds-0234", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 236000 milliseconds?", "response": "236.", "answer_type": "exact"}
+{"id": "science-binary-0235", "category": "science", "family": "binary", "instruction": "Convert decimal integer 267 to binary notation without a prefix.", "response": "100001011.", "answer_type": "exact"}
+{"id": "science-bytes-0236", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 238 KiB?", "response": "243712.", "answer_type": "exact"}
+{"id": "science-causal_attention-0237", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 337 attend to future token position 338?", "response": "No.", "answer_type": "exact"}
+{"id": "science-binary-0240", "category": "science", "family": "binary", "instruction": "Convert decimal integer 272 to binary notation without a prefix.", "response": "100010000.", "answer_type": "exact"}
+{"id": "science-bytes-0241", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 243 KiB?", "response": "248832.", "answer_type": "exact"}
+{"id": "science-causal_attention-0242", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 342 attend to future token position 343?", "response": "No.", "answer_type": "exact"}
+{"id": "science-bits_bytes-0243", "category": "science", "family": "bits_bytes", "instruction": "How many bytes are represented by exactly 1960 bits?", "response": "245.", "answer_type": "exact"}
+{"id": "science-milliseconds-0244", "category": "science", "family": "milliseconds", "instruction": "How many seconds are exactly 246000 milliseconds?", "response": "246.", "answer_type": "exact"}
+{"id": "science-binary-0245", "category": "science", "family": "binary", "instruction": "Convert decimal integer 277 to binary notation without a prefix.", "response": "100010101.", "answer_type": "exact"}
+{"id": "science-bytes-0246", "category": "science", "family": "bytes", "instruction": "Using 1 KiB = 1024 bytes, how many bytes are in 248 KiB?", "response": "253952.", "answer_type": "exact"}
+{"id": "science-causal_attention-0247", "category": "science", "family": "causal_attention", "instruction": "In a causal decoder, may token position 347 attend to future token position 348?", "response": "No.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0000", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia000' converted to uppercase.", "response": "MAIA000", "answer_type": "exact"}
+{"id": "instruction-reverse-0001", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia001'.", "response": "100aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0002", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia002' exactly twice, separated by one space.", "response": "maia002 maia002", "answer_type": "exact"}
+{"id": "instruction-prefix-0003", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia003'.", "response": "test-maia003", "answer_type": "exact"}
+{"id": "instruction-length-0004", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia004'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0005", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia005' converted to uppercase.", "response": "MAIA005", "answer_type": "exact"}
+{"id": "instruction-reverse-0006", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia006'.", "response": "600aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0007", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia007' exactly twice, separated by one space.", "response": "maia007 maia007", "answer_type": "exact"}
+{"id": "instruction-uppercase-0010", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia010' converted to uppercase.", "response": "MAIA010", "answer_type": "exact"}
+{"id": "instruction-reverse-0011", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia011'.", "response": "110aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0012", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia012' exactly twice, separated by one space.", "response": "maia012 maia012", "answer_type": "exact"}
+{"id": "instruction-prefix-0013", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia013'.", "response": "test-maia013", "answer_type": "exact"}
+{"id": "instruction-length-0014", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia014'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0015", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia015' converted to uppercase.", "response": "MAIA015", "answer_type": "exact"}
+{"id": "instruction-reverse-0016", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia016'.", "response": "610aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0017", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia017' exactly twice, separated by one space.", "response": "maia017 maia017", "answer_type": "exact"}
+{"id": "instruction-uppercase-0020", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia020' converted to uppercase.", "response": "MAIA020", "answer_type": "exact"}
+{"id": "instruction-reverse-0021", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia021'.", "response": "120aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0022", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia022' exactly twice, separated by one space.", "response": "maia022 maia022", "answer_type": "exact"}
+{"id": "instruction-prefix-0023", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia023'.", "response": "test-maia023", "answer_type": "exact"}
+{"id": "instruction-length-0024", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia024'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0025", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia025' converted to uppercase.", "response": "MAIA025", "answer_type": "exact"}
+{"id": "instruction-reverse-0026", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia026'.", "response": "620aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0027", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia027' exactly twice, separated by one space.", "response": "maia027 maia027", "answer_type": "exact"}
+{"id": "instruction-uppercase-0030", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia030' converted to uppercase.", "response": "MAIA030", "answer_type": "exact"}
+{"id": "instruction-reverse-0031", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia031'.", "response": "130aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0032", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia032' exactly twice, separated by one space.", "response": "maia032 maia032", "answer_type": "exact"}
+{"id": "instruction-prefix-0033", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia033'.", "response": "test-maia033", "answer_type": "exact"}
+{"id": "instruction-length-0034", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia034'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0035", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia035' converted to uppercase.", "response": "MAIA035", "answer_type": "exact"}
+{"id": "instruction-reverse-0036", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia036'.", "response": "630aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0037", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia037' exactly twice, separated by one space.", "response": "maia037 maia037", "answer_type": "exact"}
+{"id": "instruction-uppercase-0040", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia040' converted to uppercase.", "response": "MAIA040", "answer_type": "exact"}
+{"id": "instruction-reverse-0041", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia041'.", "response": "140aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0042", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia042' exactly twice, separated by one space.", "response": "maia042 maia042", "answer_type": "exact"}
+{"id": "instruction-prefix-0043", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia043'.", "response": "test-maia043", "answer_type": "exact"}
+{"id": "instruction-length-0044", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia044'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0045", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia045' converted to uppercase.", "response": "MAIA045", "answer_type": "exact"}
+{"id": "instruction-reverse-0046", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia046'.", "response": "640aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0047", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia047' exactly twice, separated by one space.", "response": "maia047 maia047", "answer_type": "exact"}
+{"id": "instruction-uppercase-0050", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia050' converted to uppercase.", "response": "MAIA050", "answer_type": "exact"}
+{"id": "instruction-reverse-0051", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia051'.", "response": "150aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0052", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia052' exactly twice, separated by one space.", "response": "maia052 maia052", "answer_type": "exact"}
+{"id": "instruction-prefix-0053", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia053'.", "response": "test-maia053", "answer_type": "exact"}
+{"id": "instruction-length-0054", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia054'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0055", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia055' converted to uppercase.", "response": "MAIA055", "answer_type": "exact"}
+{"id": "instruction-reverse-0056", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia056'.", "response": "650aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0057", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia057' exactly twice, separated by one space.", "response": "maia057 maia057", "answer_type": "exact"}
+{"id": "instruction-uppercase-0060", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia060' converted to uppercase.", "response": "MAIA060", "answer_type": "exact"}
+{"id": "instruction-reverse-0061", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia061'.", "response": "160aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0062", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia062' exactly twice, separated by one space.", "response": "maia062 maia062", "answer_type": "exact"}
+{"id": "instruction-prefix-0063", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia063'.", "response": "test-maia063", "answer_type": "exact"}
+{"id": "instruction-length-0064", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia064'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0065", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia065' converted to uppercase.", "response": "MAIA065", "answer_type": "exact"}
+{"id": "instruction-reverse-0066", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia066'.", "response": "660aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0067", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia067' exactly twice, separated by one space.", "response": "maia067 maia067", "answer_type": "exact"}
+{"id": "instruction-uppercase-0070", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia070' converted to uppercase.", "response": "MAIA070", "answer_type": "exact"}
+{"id": "instruction-reverse-0071", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia071'.", "response": "170aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0072", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia072' exactly twice, separated by one space.", "response": "maia072 maia072", "answer_type": "exact"}
+{"id": "instruction-prefix-0073", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia073'.", "response": "test-maia073", "answer_type": "exact"}
+{"id": "instruction-length-0074", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia074'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0075", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia075' converted to uppercase.", "response": "MAIA075", "answer_type": "exact"}
+{"id": "instruction-reverse-0076", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia076'.", "response": "670aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0077", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia077' exactly twice, separated by one space.", "response": "maia077 maia077", "answer_type": "exact"}
+{"id": "instruction-uppercase-0080", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia080' converted to uppercase.", "response": "MAIA080", "answer_type": "exact"}
+{"id": "instruction-reverse-0081", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia081'.", "response": "180aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0082", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia082' exactly twice, separated by one space.", "response": "maia082 maia082", "answer_type": "exact"}
+{"id": "instruction-prefix-0083", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia083'.", "response": "test-maia083", "answer_type": "exact"}
+{"id": "instruction-length-0084", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia084'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0085", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia085' converted to uppercase.", "response": "MAIA085", "answer_type": "exact"}
+{"id": "instruction-reverse-0086", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia086'.", "response": "680aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0087", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia087' exactly twice, separated by one space.", "response": "maia087 maia087", "answer_type": "exact"}
+{"id": "instruction-uppercase-0090", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia090' converted to uppercase.", "response": "MAIA090", "answer_type": "exact"}
+{"id": "instruction-reverse-0091", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia091'.", "response": "190aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0092", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia092' exactly twice, separated by one space.", "response": "maia092 maia092", "answer_type": "exact"}
+{"id": "instruction-prefix-0093", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia093'.", "response": "test-maia093", "answer_type": "exact"}
+{"id": "instruction-length-0094", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia094'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0095", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia095' converted to uppercase.", "response": "MAIA095", "answer_type": "exact"}
+{"id": "instruction-reverse-0096", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia096'.", "response": "690aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0097", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia097' exactly twice, separated by one space.", "response": "maia097 maia097", "answer_type": "exact"}
+{"id": "instruction-uppercase-0100", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia100' converted to uppercase.", "response": "MAIA100", "answer_type": "exact"}
+{"id": "instruction-reverse-0101", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia101'.", "response": "101aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0102", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia102' exactly twice, separated by one space.", "response": "maia102 maia102", "answer_type": "exact"}
+{"id": "instruction-prefix-0103", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia103'.", "response": "test-maia103", "answer_type": "exact"}
+{"id": "instruction-length-0104", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia104'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0105", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia105' converted to uppercase.", "response": "MAIA105", "answer_type": "exact"}
+{"id": "instruction-reverse-0106", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia106'.", "response": "601aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0107", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia107' exactly twice, separated by one space.", "response": "maia107 maia107", "answer_type": "exact"}
+{"id": "instruction-uppercase-0110", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia110' converted to uppercase.", "response": "MAIA110", "answer_type": "exact"}
+{"id": "instruction-reverse-0111", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia111'.", "response": "111aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0112", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia112' exactly twice, separated by one space.", "response": "maia112 maia112", "answer_type": "exact"}
+{"id": "instruction-prefix-0113", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia113'.", "response": "test-maia113", "answer_type": "exact"}
+{"id": "instruction-length-0114", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia114'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0115", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia115' converted to uppercase.", "response": "MAIA115", "answer_type": "exact"}
+{"id": "instruction-reverse-0116", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia116'.", "response": "611aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0117", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia117' exactly twice, separated by one space.", "response": "maia117 maia117", "answer_type": "exact"}
+{"id": "instruction-uppercase-0120", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia120' converted to uppercase.", "response": "MAIA120", "answer_type": "exact"}
+{"id": "instruction-reverse-0121", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia121'.", "response": "121aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0122", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia122' exactly twice, separated by one space.", "response": "maia122 maia122", "answer_type": "exact"}
+{"id": "instruction-prefix-0123", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia123'.", "response": "test-maia123", "answer_type": "exact"}
+{"id": "instruction-length-0124", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia124'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0125", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia125' converted to uppercase.", "response": "MAIA125", "answer_type": "exact"}
+{"id": "instruction-reverse-0126", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia126'.", "response": "621aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0127", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia127' exactly twice, separated by one space.", "response": "maia127 maia127", "answer_type": "exact"}
+{"id": "instruction-uppercase-0130", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia130' converted to uppercase.", "response": "MAIA130", "answer_type": "exact"}
+{"id": "instruction-reverse-0131", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia131'.", "response": "131aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0132", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia132' exactly twice, separated by one space.", "response": "maia132 maia132", "answer_type": "exact"}
+{"id": "instruction-prefix-0133", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia133'.", "response": "test-maia133", "answer_type": "exact"}
+{"id": "instruction-length-0134", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia134'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0135", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia135' converted to uppercase.", "response": "MAIA135", "answer_type": "exact"}
+{"id": "instruction-reverse-0136", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia136'.", "response": "631aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0137", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia137' exactly twice, separated by one space.", "response": "maia137 maia137", "answer_type": "exact"}
+{"id": "instruction-uppercase-0140", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia140' converted to uppercase.", "response": "MAIA140", "answer_type": "exact"}
+{"id": "instruction-reverse-0141", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia141'.", "response": "141aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0142", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia142' exactly twice, separated by one space.", "response": "maia142 maia142", "answer_type": "exact"}
+{"id": "instruction-prefix-0143", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia143'.", "response": "test-maia143", "answer_type": "exact"}
+{"id": "instruction-length-0144", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia144'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0145", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia145' converted to uppercase.", "response": "MAIA145", "answer_type": "exact"}
+{"id": "instruction-reverse-0146", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia146'.", "response": "641aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0147", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia147' exactly twice, separated by one space.", "response": "maia147 maia147", "answer_type": "exact"}
+{"id": "instruction-uppercase-0150", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia150' converted to uppercase.", "response": "MAIA150", "answer_type": "exact"}
+{"id": "instruction-reverse-0151", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia151'.", "response": "151aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0152", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia152' exactly twice, separated by one space.", "response": "maia152 maia152", "answer_type": "exact"}
+{"id": "instruction-prefix-0153", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia153'.", "response": "test-maia153", "answer_type": "exact"}
+{"id": "instruction-length-0154", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia154'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0155", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia155' converted to uppercase.", "response": "MAIA155", "answer_type": "exact"}
+{"id": "instruction-reverse-0156", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia156'.", "response": "651aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0157", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia157' exactly twice, separated by one space.", "response": "maia157 maia157", "answer_type": "exact"}
+{"id": "instruction-uppercase-0160", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia160' converted to uppercase.", "response": "MAIA160", "answer_type": "exact"}
+{"id": "instruction-reverse-0161", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia161'.", "response": "161aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0162", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia162' exactly twice, separated by one space.", "response": "maia162 maia162", "answer_type": "exact"}
+{"id": "instruction-prefix-0163", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia163'.", "response": "test-maia163", "answer_type": "exact"}
+{"id": "instruction-length-0164", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia164'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0165", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia165' converted to uppercase.", "response": "MAIA165", "answer_type": "exact"}
+{"id": "instruction-reverse-0166", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia166'.", "response": "661aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0167", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia167' exactly twice, separated by one space.", "response": "maia167 maia167", "answer_type": "exact"}
+{"id": "instruction-uppercase-0170", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia170' converted to uppercase.", "response": "MAIA170", "answer_type": "exact"}
+{"id": "instruction-reverse-0171", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia171'.", "response": "171aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0172", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia172' exactly twice, separated by one space.", "response": "maia172 maia172", "answer_type": "exact"}
+{"id": "instruction-prefix-0173", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia173'.", "response": "test-maia173", "answer_type": "exact"}
+{"id": "instruction-length-0174", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia174'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0175", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia175' converted to uppercase.", "response": "MAIA175", "answer_type": "exact"}
+{"id": "instruction-reverse-0176", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia176'.", "response": "671aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0177", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia177' exactly twice, separated by one space.", "response": "maia177 maia177", "answer_type": "exact"}
+{"id": "instruction-uppercase-0180", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia180' converted to uppercase.", "response": "MAIA180", "answer_type": "exact"}
+{"id": "instruction-reverse-0181", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia181'.", "response": "181aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0182", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia182' exactly twice, separated by one space.", "response": "maia182 maia182", "answer_type": "exact"}
+{"id": "instruction-prefix-0183", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia183'.", "response": "test-maia183", "answer_type": "exact"}
+{"id": "instruction-length-0184", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia184'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0185", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia185' converted to uppercase.", "response": "MAIA185", "answer_type": "exact"}
+{"id": "instruction-reverse-0186", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia186'.", "response": "681aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0187", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia187' exactly twice, separated by one space.", "response": "maia187 maia187", "answer_type": "exact"}
+{"id": "instruction-uppercase-0190", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia190' converted to uppercase.", "response": "MAIA190", "answer_type": "exact"}
+{"id": "instruction-reverse-0191", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia191'.", "response": "191aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0192", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia192' exactly twice, separated by one space.", "response": "maia192 maia192", "answer_type": "exact"}
+{"id": "instruction-prefix-0193", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia193'.", "response": "test-maia193", "answer_type": "exact"}
+{"id": "instruction-length-0194", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia194'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0195", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia195' converted to uppercase.", "response": "MAIA195", "answer_type": "exact"}
+{"id": "instruction-reverse-0196", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia196'.", "response": "691aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0197", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia197' exactly twice, separated by one space.", "response": "maia197 maia197", "answer_type": "exact"}
+{"id": "instruction-uppercase-0200", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia200' converted to uppercase.", "response": "MAIA200", "answer_type": "exact"}
+{"id": "instruction-reverse-0201", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia201'.", "response": "102aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0202", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia202' exactly twice, separated by one space.", "response": "maia202 maia202", "answer_type": "exact"}
+{"id": "instruction-prefix-0203", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia203'.", "response": "test-maia203", "answer_type": "exact"}
+{"id": "instruction-length-0204", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia204'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0205", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia205' converted to uppercase.", "response": "MAIA205", "answer_type": "exact"}
+{"id": "instruction-reverse-0206", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia206'.", "response": "602aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0207", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia207' exactly twice, separated by one space.", "response": "maia207 maia207", "answer_type": "exact"}
+{"id": "instruction-uppercase-0210", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia210' converted to uppercase.", "response": "MAIA210", "answer_type": "exact"}
+{"id": "instruction-reverse-0211", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia211'.", "response": "112aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0212", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia212' exactly twice, separated by one space.", "response": "maia212 maia212", "answer_type": "exact"}
+{"id": "instruction-prefix-0213", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia213'.", "response": "test-maia213", "answer_type": "exact"}
+{"id": "instruction-length-0214", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia214'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0215", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia215' converted to uppercase.", "response": "MAIA215", "answer_type": "exact"}
+{"id": "instruction-reverse-0216", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia216'.", "response": "612aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0217", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia217' exactly twice, separated by one space.", "response": "maia217 maia217", "answer_type": "exact"}
+{"id": "instruction-uppercase-0220", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia220' converted to uppercase.", "response": "MAIA220", "answer_type": "exact"}
+{"id": "instruction-reverse-0221", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia221'.", "response": "122aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0222", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia222' exactly twice, separated by one space.", "response": "maia222 maia222", "answer_type": "exact"}
+{"id": "instruction-prefix-0223", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia223'.", "response": "test-maia223", "answer_type": "exact"}
+{"id": "instruction-length-0224", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia224'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0225", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia225' converted to uppercase.", "response": "MAIA225", "answer_type": "exact"}
+{"id": "instruction-reverse-0226", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia226'.", "response": "622aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0227", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia227' exactly twice, separated by one space.", "response": "maia227 maia227", "answer_type": "exact"}
+{"id": "instruction-uppercase-0230", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia230' converted to uppercase.", "response": "MAIA230", "answer_type": "exact"}
+{"id": "instruction-reverse-0231", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia231'.", "response": "132aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0232", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia232' exactly twice, separated by one space.", "response": "maia232 maia232", "answer_type": "exact"}
+{"id": "instruction-prefix-0233", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia233'.", "response": "test-maia233", "answer_type": "exact"}
+{"id": "instruction-length-0234", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia234'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0235", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia235' converted to uppercase.", "response": "MAIA235", "answer_type": "exact"}
+{"id": "instruction-reverse-0236", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia236'.", "response": "632aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0237", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia237' exactly twice, separated by one space.", "response": "maia237 maia237", "answer_type": "exact"}
+{"id": "instruction-uppercase-0240", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia240' converted to uppercase.", "response": "MAIA240", "answer_type": "exact"}
+{"id": "instruction-reverse-0241", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia241'.", "response": "142aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0242", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia242' exactly twice, separated by one space.", "response": "maia242 maia242", "answer_type": "exact"}
+{"id": "instruction-prefix-0243", "category": "instruction", "family": "prefix", "instruction": "Add the prefix 'test-' to the string 'maia243'.", "response": "test-maia243", "answer_type": "exact"}
+{"id": "instruction-length-0244", "category": "instruction", "family": "length", "instruction": "Return the number of characters in the string 'maia244'.", "response": "7.", "answer_type": "exact"}
+{"id": "instruction-uppercase-0245", "category": "instruction", "family": "uppercase", "instruction": "Return 'maia245' converted to uppercase.", "response": "MAIA245", "answer_type": "exact"}
+{"id": "instruction-reverse-0246", "category": "instruction", "family": "reverse", "instruction": "Reverse every character in the string 'maia246'.", "response": "642aiam", "answer_type": "exact"}
+{"id": "instruction-repeat-0247", "category": "instruction", "family": "repeat", "instruction": "Repeat 'maia247' exactly twice, separated by one space.", "response": "maia247 maia247", "answer_type": "exact"}
