@@ -1,0 +1,26 @@
+{
+  "stage": "stage2-multilingual-control-v1",
+  "model_id": "openai-community/gpt2-medium",
+  "seed": 42,
+  "max_length": 256,
+  "micro_batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "effective_batch_size": 8,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.05,
+  "objective": "response-only causal language modeling",
+  "languages": {
+    "en": 0.4,
+    "pt": 0.3,
+    "es": 0.3
+  },
+  "splits": {
+    "train": 1200,
+    "validation": 150,
+    "test": 150
+  },
+  "selection": "best validation loss checkpoint",
+  "purpose": "Measure multilingual instruction learning separately from robust held-out-family reasoning."
+}

@@ -1,0 +1,48 @@
+{
+  "archive_format": 1,
+  "experiment": "stage2-multilingual-control-v1",
+  "experiment_number": 2027,
+  "created_at": "2026-10-01T09:01:31.411391-03:00",
+  "git": {
+    "commit": "8dcaf582aed7f10d204f163d8a7b5d728f9e05fe",
+    "branch": "main",
+    "dirty": true
+  },
+  "files": [
+    {
+      "path": "experiments/2026-10-01_2027-stage2-multilingual-control-v1/metrics.json",
+      "size_bytes": 5227,
+      "sha256": "c3ae745d26058f657b17491b85d43f740bac4b1eeac51d5e0f979992e2899e88"
+    },
+    {
+      "path": "experiments/2026-10-01_2027-stage2-multilingual-control-v1/config.json",
+      "size_bytes": 665,
+      "sha256": "9eed24adcbecee5b5e5520642fa54561394e5dc8f5c96cde483ccfadeede956f"
+    },
+    {
+      "path": "2026-10-01_2027-stage2-multilingual-control-v1/data/train.jsonl",
+      "size_bytes": 256409,
+      "sha256": "d366c810ffe16290044f47d2748da895ca265106179dc564acddd255f707f931"
+    },
+    {
+      "path": "2026-10-01_2027-stage2-multilingual-control-v1/data/validation.jsonl",
+      "size_bytes": 32022,
+      "sha256": "ec2194a1c616391e9f7741cc810dd52077ca735e237b94f906e4e022f9213a8d"
+    },
+    {
+      "path": "2026-10-01_2027-stage2-multilingual-control-v1/data/test.jsonl",
+      "size_bytes": 32078,
+      "sha256": "e6d86fcab6502d41ee5950cbce91b3dafbdebc7ddd1c119e693e26ba493373b3"
+    },
+    {
+      "path": "2026-10-01_2027-stage2-multilingual-control-v1/logs/stage2-run.log",
+      "size_bytes": 15284,
+      "sha256": "61ab01db55db308cdcfa355ff030a2e1af59564e59a97c63ccaa2b5c4d32987f"
+    },
+    {
+      "path": "environment.json",
+      "size_bytes": 335,
+      "sha256": "5aba25ff55ef03a47c680007337621a1db77fc94faed4e3ba45e20153865f844"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+# stage2-multilingual-control-v1
+
+## Result
+
+**PASS**
+
+## Metrics
+
+- **stage:** stage2-multilingual-control-v1
+- **model:** openai-community/gpt2-medium
+- **train_examples:** 1200
+- **validation_examples:** 150
+- **test_examples:** 150
+- **epochs:** 3
+- **optimizer_updates:** 450
+- **initial_validation_loss:** 4.12533804734548
+- **best_validation_loss:** 0.41511863759486006
+- **history:** [{'epoch': 1, 'update': 150, 'validation_loss': 0.417378659095848}, {'epoch': 2, 'update': 300, 'validation_loss': 0.4243938444028997}, {'epoch': 3, 'update': 450, 'validation_loss': 0.41511863759486006}]
+- **baseline_test:** {'model': 'openai-community/gpt2-medium', 'split': 'test', 'overall': {'examples': 150, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 29, 'target_contained_rate': 0.19333333333333333, 'eos_count': 0, 'eos_rate': 0.0}, 'by_language': {'en': {'examples': 50, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 9, 'target_contained_rate': 0.18, 'eos_count': 0, 'eos_rate': 0.0}, 'pt': {'examples': 50, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 10, 'target_contained_rate': 0.2, 'eos_count': 0, 'eos_rate': 0.0}, 'es': {'examples': 50, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 10, 'target_contained_rate': 0.2, 'eos_count': 0, 'eos_rate': 0.0}}, 'by_family': {'addition': {'examples': 30, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 0, 'target_contained_rate': 0.0, 'eos_count': 0, 'eos_rate': 0.0}, 'comparison': {'examples': 30, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 15, 'target_contained_rate': 0.5, 'eos_count': 0, 'eos_rate': 0.0}, 'lowercase': {'examples': 30, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 0, 'target_contained_rate': 0.0, 'eos_count': 0, 'eos_rate': 0.0}, 'parity': {'examples': 30, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 13, 'target_contained_rate': 0.43333333333333335, 'eos_count': 0, 'eos_rate': 0.0}, 'uppercase': {'examples': 30, 'exact_match': 0, 'exact_match_rate': 0.0, 'target_contained': 1, 'target_contained_rate': 0.03333333333333333, 'eos_count': 0, 'eos_rate': 0.0}}}
+- **post_sft_test:** {'model': 'outputs/gpt2-medium-stage2-best', 'split': 'test', 'overall': {'examples': 150, 'exact_match': 104, 'exact_match_rate': 0.6933333333333334, 'target_contained': 104, 'target_contained_rate': 0.6933333333333334, 'eos_count': 150, 'eos_rate': 1.0}, 'by_language': {'en': {'examples': 50, 'exact_match': 35, 'exact_match_rate': 0.7, 'target_contained': 35, 'target_contained_rate': 0.7, 'eos_count': 50, 'eos_rate': 1.0}, 'pt': {'examples': 50, 'exact_match': 33, 'exact_match_rate': 0.66, 'target_contained': 33, 'target_contained_rate': 0.66, 'eos_count': 50, 'eos_rate': 1.0}, 'es': {'examples': 50, 'exact_match': 36, 'exact_match_rate': 0.72, 'target_contained': 36, 'target_contained_rate': 0.72, 'eos_count': 50, 'eos_rate': 1.0}}, 'by_family': {'addition': {'examples': 30, 'exact_match': 2, 'exact_match_rate': 0.06666666666666667, 'target_contained': 2, 'target_contained_rate': 0.06666666666666667, 'eos_count': 30, 'eos_rate': 1.0}, 'comparison': {'examples': 30, 'exact_match': 22, 'exact_match_rate': 0.7333333333333333, 'target_contained': 22, 'target_contained_rate': 0.7333333333333333, 'eos_count': 30, 'eos_rate': 1.0}, 'lowercase': {'examples': 30, 'exact_match': 30, 'exact_match_rate': 1.0, 'target_contained': 30, 'target_contained_rate': 1.0, 'eos_count': 30, 'eos_rate': 1.0}, 'parity': {'examples': 30, 'exact_match': 20, 'exact_match_rate': 0.6666666666666666, 'target_contained': 20, 'target_contained_rate': 0.6666666666666666, 'eos_count': 30, 'eos_rate': 1.0}, 'uppercase': {'examples': 30, 'exact_match': 30, 'exact_match_rate': 1.0, 'target_contained': 30, 'target_contained_rate': 1.0, 'eos_count': 30, 'eos_rate': 1.0}}}
+- **exact_match_gain:** 0.6933333333333334
+- **result:** PASS
+
+## Environment
+
+- Python: `3.14.5`
+- PyTorch: `2.14.1`
+- Transformers: `5.17.0`
+- Platform: `macOS-27.0-arm64-arm-64bit-Mach-O`
+- Machine: `arm64`
+- MPS built: `True`
+- MPS available: `True`
+
+## Git
+
+- Commit: `8dcaf582aed7f10d204f163d8a7b5d728f9e05fe`
+- Branch: `main`
+- Dirty working tree: `True`
+
+## Reproducibility
+
+All copied artifacts are listed in `manifest.json` with SHA-256 hashes.
