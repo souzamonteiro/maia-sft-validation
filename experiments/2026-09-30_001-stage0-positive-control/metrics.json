@@ -1,0 +1,15 @@
+{
+  "stage": "stage0-positive-control",
+  "model": "openai-community/gpt2-medium",
+  "parameters": 354823168,
+  "examples": 64,
+  "sequence_length": 256,
+  "optimizer_updates": 160,
+  "initial_loss": 5.301008,
+  "final_loss": 0.000002,
+  "exact_match": 64,
+  "exact_match_rate": 1.0,
+  "target_contained": 64,
+  "target_contained_rate": 1.0,
+  "result": "PASS"
+}

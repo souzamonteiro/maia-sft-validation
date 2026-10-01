@@ -1,0 +1,33 @@
+{
+  "archive_format": 1,
+  "experiment": "stage0-positive-control",
+  "experiment_number": 1,
+  "created_at": "2026-09-30T21:30:45.523225-03:00",
+  "git": {
+    "commit": "f39cb5ffa04293fa5ca146520ef9f9e5aa890832",
+    "branch": "main",
+    "dirty": true
+  },
+  "files": [
+    {
+      "path": "experiments/2026-09-30_001-stage0-positive-control/metrics.json",
+      "size_bytes": 363,
+      "sha256": "0e8192b3c04b7e78add585da15e725d9f7fdd02bf85701a89b1f734f3f4f32d5"
+    },
+    {
+      "path": "2026-09-30_001-stage0-positive-control/data/micro_train.jsonl",
+      "size_bytes": 7991,
+      "sha256": "7ac3d0e23df742e73d4897320f7dddee4302f04c120ab2a8110d8835b4876a0d"
+    },
+    {
+      "path": "2026-09-30_001-stage0-positive-control/data/micro_eval.jsonl",
+      "size_bytes": 1584,
+      "sha256": "1ef5ccc826b7c041471f6264df42e4d8068e99ed545a649157dbe2c10727db5b"
+    },
+    {
+      "path": "environment.json",
+      "size_bytes": 335,
+      "sha256": "2bfefd15e47ec763677e8d412cb18704f1d31256357aff16d0d5d173fb3689c0"
+    }
+  ]
+}
