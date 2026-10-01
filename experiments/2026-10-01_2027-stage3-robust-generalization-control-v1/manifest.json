@@ -1,0 +1,53 @@
+{
+  "archive_format": 1,
+  "experiment": "stage3-robust-generalization-control-v1",
+  "experiment_number": 2027,
+  "created_at": "2026-10-01T17:06:43.565544-03:00",
+  "git": {
+    "commit": "d7953bd999bfc1f2b94e5914692bea5b63b437ad",
+    "branch": "main",
+    "dirty": true
+  },
+  "files": [
+    {
+      "path": "experiments/2026-10-01_2027-stage3-robust-generalization-control-v1/metrics.json",
+      "size_bytes": 7560,
+      "sha256": "628ecb5959b6c4721346a3e46f213d49f7bf4cf0bb064723870eb4cdb782684d"
+    },
+    {
+      "path": "experiments/2026-10-01_2027-stage3-robust-generalization-control-v1/config.json",
+      "size_bytes": 443,
+      "sha256": "3d6742a9092a59e3cef28d4e03dc661187b9bec2825a4551acfb8d6311813c47"
+    },
+    {
+      "path": "2026-10-01_2027-stage3-robust-generalization-control-v1/data/train.jsonl",
+      "size_bytes": 184621,
+      "sha256": "a6d32ce8d6b6c7e215d01256a32aac543a5b8119685feddcff6ff0999319db85"
+    },
+    {
+      "path": "2026-10-01_2027-stage3-robust-generalization-control-v1/data/validation.jsonl",
+      "size_bytes": 23098,
+      "sha256": "b06dc7e8ca7bd53e39aeec82a93ee32661da80e888e3e9aa768e6a8cebca23dd"
+    },
+    {
+      "path": "2026-10-01_2027-stage3-robust-generalization-control-v1/data/test_core.jsonl",
+      "size_bytes": 23078,
+      "sha256": "5e1120c6cdba1b24de033696eb54a75843104a174cdd8b85ef5a7521c192510f"
+    },
+    {
+      "path": "2026-10-01_2027-stage3-robust-generalization-control-v1/data/test_heldout.jsonl",
+      "size_bytes": 51629,
+      "sha256": "159aa3bf2276d6125a6225898b4a9187cff417539a46e77c8257c2b4169b78ea"
+    },
+    {
+      "path": "2026-10-01_2027-stage3-robust-generalization-control-v1/logs/stage3-run.log",
+      "size_bytes": 19178,
+      "sha256": "0e338e5278bdbda13f7887f34fd255efb47eda9e6f32efd580a5e67e150657f5"
+    },
+    {
+      "path": "environment.json",
+      "size_bytes": 337,
+      "sha256": "5e490379a06d04673c13c823131c0cea0e722957028d250ee06462f7aaef8eb6"
+    }
+  ]
+}
