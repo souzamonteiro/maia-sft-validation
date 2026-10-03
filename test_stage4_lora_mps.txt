@@ -1,0 +1,142 @@
+./test_stage4_lora_mps.py 
+================================================================================
+GPT-2 MEDIUM + MPS-SAFE LoRA - INTERACTIVE CHAT
+================================================================================
+
+Device:         mps
+Base model:     openai-community/gpt2-medium
+LoRA adapter:   /Volumes/External_SSD/Documentos/Projects/maia-sft-validation/outputs/gpt2-medium-stage4-lora-mps-safe-best
+System:         You are a helpful, careful multilingual assistant. Answer in the user's language unless asked otherwise.
+
+Loading tokenizer...
+Vocabulary:     50257
+EOS token ID:   50256
+PAD token ID:   50256
+
+Loading GPT-2 Medium...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████████████████████| 292/292 [00:00<00:00, 7601.02it/s]
+Loading Stage 4 MPS-safe LoRA adapter...
+
+Model ready.
+
+================================================================================
+STAGE 4 SERIALIZATION CHECK
+================================================================================
+
+System: You are a helpful, careful multilingual assistant. Answer in the user's language unless asked otherwise.
+User: What is the capital of France?
+Assistant: 
+
+================================================================================
+QUICK TEST
+================================================================================
+
+USER:
+What is the capital of France?
+
+ASSISTANT:
+Paris
+
+--------------------------------------------------------------------------------
+
+USER:
+Explain what a neural network is in two sentences.
+
+ASSISTANT:
+A neural network is a computer program that can learn from data. It can be used to solve problems, or to predict future events.
+
+--------------------------------------------------------------------------------
+
+USER:
+Qual é a capital do Brasil?
+
+ASSISTANT:
+A capital do Brasil é a capital do Brasil.
+
+--------------------------------------------------------------------------------
+
+USER:
+Explique em poucas palavras o que é uma rede neural.
+
+ASSISTANT:
+Em poucas palavras o que é uma rede neural, é uma devem a poder de cada palavras. É uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é uma devem a poder de cada palavras, é
+
+--------------------------------------------------------------------------------
+
+USER:
+¿Cuál es la capital de Argentina?
+
+ASSISTANT:
+La capital de Argentina es una capital de Argentina, que se pueden aplicar a los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los áreas de los á
+
+--------------------------------------------------------------------------------
+
+USER:
+Explica brevemente qué es el aprendizaje automático.
+
+ASSISTANT:
+El aprendizaje automático es una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una unauna una una una una una una una una una una una una una una una una una una una una una una una una una una una una un
+
+--------------------------------------------------------------------------------
+
+USER:
+What is 17 + 28?
+
+ASSISTANT:
+17 + 28 = 28
+
+--------------------------------------------------------------------------------
+
+USER:
+Write a Python function that returns the square of a number.
+
+ASSISTANT:
+The square of a number is the product of two numbers.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+INTERACTIVE MODE
+================================================================================
+
+Type a question and press Enter.
+Type 'exit' to finish.
+
+You: O que é um autômato celular?
+
+Assistant:
+O que é um autômato celular?
+
+You: What is a transistor?
+
+Assistant:
+A transistor is a device that can be used to convert a voltage source into a current.
+
+You: What is an automata?
+
+Assistant:
+An automata is a computer program that can be programmed to perform a task. An automata can be used to perform a task such as creating a new computer program, or to perform a task such as creating a new computer program.
+
+You: What is a black hole?
+
+Assistant:
+A black hole is a region of space that is surrounded by a dense, dense, and dense cloud ofmatter.
+
+You: What is the capital of Brazil?
+
+Assistant:
+Brazil is the capital of Brazil
+
+You: What is the capital of United Stats of America?
+
+Assistant:
+The capital of United Stats of America is New York City
+
+You: Who are you?
+
+Assistant:
+I am a multilingual assistant.
+
+You: exit
+Chat finished.

@@ -1,0 +1,6 @@
+torch
+transformers==5.17.0
+datasets
+accelerate
+safetensors
+pytest

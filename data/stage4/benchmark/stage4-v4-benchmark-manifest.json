@@ -1,0 +1,60 @@
+{
+  "stage": "stage4-v4-definitive-assistant-benchmark",
+  "seed": 20261001,
+  "benchmark_file": "data/stage4/benchmark/stage4-v4-benchmark.jsonl",
+  "sha256": "9ba60ac68ad285fdb0e16eb2af876722d8745e8131203b4a090b51b6a5ad73c3",
+  "examples": 300,
+  "languages": {
+    "en": 100,
+    "pt": 100,
+    "es": 100
+  },
+  "evaluation": {
+    "objective": 180,
+    "qualitative": 120
+  },
+  "objective_per_language": 60,
+  "qualitative_per_language": 40,
+  "audit": {
+    "languages": {
+      "en": 100,
+      "es": 100,
+      "pt": 100
+    },
+    "kinds": {
+      "objective": 180,
+      "qualitative": 120
+    },
+    "language_kind": {
+      "en:objective": 60,
+      "en:qualitative": 40,
+      "es:objective": 60,
+      "es:qualitative": 40,
+      "pt:objective": 60,
+      "pt:qualitative": 40
+    },
+    "categories": {
+      "arithmetic": 45,
+      "comparison": 30,
+      "string": 30,
+      "logic": 30,
+      "science": 30,
+      "code": 15,
+      "explanation": 15,
+      "summarization": 12,
+      "rewriting": 12,
+      "translation": 12,
+      "coding": 15,
+      "science_reasoning": 15,
+      "uncertainty": 12,
+      "formatting": 12,
+      "multi_turn": 15
+    },
+    "prompt_leakage": 0,
+    "duplicate_prompts": 0
+  },
+  "corpus_independence": {
+    "exact_normalized_user_prompt_overlap": 0
+  },
+  "status": "FROZEN_CANDIDATE"
+}

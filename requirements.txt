@@ -1,4 +1,14 @@
-torch>=2.9
+# Maia SFT Validation
+# Reproducible environment used for Stage 4 experiments.
+#
+# Validated environment:
+#   Python 3.14.5
+#   macOS / Apple Silicon M4
+#   PyTorch MPS backend
+
+torch==2.14.1
 transformers==5.17.0
-safetensors>=0.8.0
-pytest>=8.0
+datasets==5.0.1
+peft==0.21.2
+tqdm==4.70.1
+safetensors==0.8.0

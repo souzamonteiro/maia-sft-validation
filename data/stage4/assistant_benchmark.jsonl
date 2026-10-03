@@ -1,0 +1,300 @@
+{"id": "bench-0001", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 17 + 9?", "expected": "26"}
+{"id": "bench-0002", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 20 + 10?", "expected": "30"}
+{"id": "bench-0003", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 23 + 11?", "expected": "34"}
+{"id": "bench-0004", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 26 + 12?", "expected": "38"}
+{"id": "bench-0005", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 29 + 13?", "expected": "42"}
+{"id": "bench-0006", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 32 + 14?", "expected": "46"}
+{"id": "bench-0007", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 35 + 15?", "expected": "50"}
+{"id": "bench-0008", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 38 + 9?", "expected": "47"}
+{"id": "bench-0009", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 41 + 10?", "expected": "51"}
+{"id": "bench-0010", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 44 + 11?", "expected": "55"}
+{"id": "bench-0011", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 47 + 12?", "expected": "59"}
+{"id": "bench-0012", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 50 + 13?", "expected": "63"}
+{"id": "bench-0013", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 53 + 14?", "expected": "67"}
+{"id": "bench-0014", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 56 + 15?", "expected": "71"}
+{"id": "bench-0015", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 59 + 9?", "expected": "68"}
+{"id": "bench-0016", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 62 + 10?", "expected": "72"}
+{"id": "bench-0017", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 65 + 11?", "expected": "76"}
+{"id": "bench-0018", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 68 + 12?", "expected": "80"}
+{"id": "bench-0019", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 71 + 13?", "expected": "84"}
+{"id": "bench-0020", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 74 + 14?", "expected": "88"}
+{"id": "bench-0021", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 77 + 15?", "expected": "92"}
+{"id": "bench-0022", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 80 + 9?", "expected": "89"}
+{"id": "bench-0023", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 83 + 10?", "expected": "93"}
+{"id": "bench-0024", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 86 + 11?", "expected": "97"}
+{"id": "bench-0025", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 89 + 12?", "expected": "101"}
+{"id": "bench-0026", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 92 + 13?", "expected": "105"}
+{"id": "bench-0027", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 95 + 14?", "expected": "109"}
+{"id": "bench-0028", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 98 + 15?", "expected": "113"}
+{"id": "bench-0029", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 101 + 9?", "expected": "110"}
+{"id": "bench-0030", "language": "en", "category": "arithmetic", "prompt": "Answer only the result: What is 104 + 10?", "expected": "114"}
+{"id": "bench-0031", "language": "en", "category": "comparison", "prompt": "Is 0 less than 3? Answer True or False.", "expected": "True"}
+{"id": "bench-0032", "language": "en", "category": "comparison", "prompt": "Is 7 less than 14? Answer True or False.", "expected": "True"}
+{"id": "bench-0033", "language": "en", "category": "comparison", "prompt": "Is 14 less than 25? Answer True or False.", "expected": "True"}
+{"id": "bench-0034", "language": "en", "category": "comparison", "prompt": "Is 21 less than 36? Answer True or False.", "expected": "True"}
+{"id": "bench-0035", "language": "en", "category": "comparison", "prompt": "Is 28 less than 4? Answer True or False.", "expected": "False"}
+{"id": "bench-0036", "language": "en", "category": "comparison", "prompt": "Is 35 less than 15? Answer True or False.", "expected": "False"}
+{"id": "bench-0037", "language": "en", "category": "comparison", "prompt": "Is 1 less than 26? Answer True or False.", "expected": "True"}
+{"id": "bench-0038", "language": "en", "category": "comparison", "prompt": "Is 8 less than 37? Answer True or False.", "expected": "True"}
+{"id": "bench-0039", "language": "en", "category": "comparison", "prompt": "Is 15 less than 5? Answer True or False.", "expected": "False"}
+{"id": "bench-0040", "language": "en", "category": "comparison", "prompt": "Is 22 less than 16? Answer True or False.", "expected": "False"}
+{"id": "bench-0041", "language": "en", "category": "comparison", "prompt": "Is 29 less than 27? Answer True or False.", "expected": "False"}
+{"id": "bench-0042", "language": "en", "category": "comparison", "prompt": "Is 36 less than 38? Answer True or False.", "expected": "True"}
+{"id": "bench-0043", "language": "en", "category": "comparison", "prompt": "Is 2 less than 6? Answer True or False.", "expected": "True"}
+{"id": "bench-0044", "language": "en", "category": "comparison", "prompt": "Is 9 less than 17? Answer True or False.", "expected": "True"}
+{"id": "bench-0045", "language": "en", "category": "comparison", "prompt": "Is 16 less than 28? Answer True or False.", "expected": "True"}
+{"id": "bench-0046", "language": "en", "category": "comparison", "prompt": "Is 23 less than 39? Answer True or False.", "expected": "True"}
+{"id": "bench-0047", "language": "en", "category": "comparison", "prompt": "Is 30 less than 7? Answer True or False.", "expected": "False"}
+{"id": "bench-0048", "language": "en", "category": "comparison", "prompt": "Is 37 less than 18? Answer True or False.", "expected": "False"}
+{"id": "bench-0049", "language": "en", "category": "comparison", "prompt": "Is 3 less than 29? Answer True or False.", "expected": "True"}
+{"id": "bench-0050", "language": "en", "category": "comparison", "prompt": "Is 10 less than 40? Answer True or False.", "expected": "True"}
+{"id": "bench-0051", "language": "en", "category": "comparison", "prompt": "Is 17 less than 8? Answer True or False.", "expected": "False"}
+{"id": "bench-0052", "language": "en", "category": "comparison", "prompt": "Is 24 less than 19? Answer True or False.", "expected": "False"}
+{"id": "bench-0053", "language": "en", "category": "comparison", "prompt": "Is 31 less than 30? Answer True or False.", "expected": "False"}
+{"id": "bench-0054", "language": "en", "category": "comparison", "prompt": "Is 38 less than 41? Answer True or False.", "expected": "True"}
+{"id": "bench-0055", "language": "en", "category": "comparison", "prompt": "Is 4 less than 9? Answer True or False.", "expected": "True"}
+{"id": "bench-0056", "language": "en", "category": "comparison", "prompt": "Is 11 less than 20? Answer True or False.", "expected": "True"}
+{"id": "bench-0057", "language": "en", "category": "comparison", "prompt": "Is 18 less than 31? Answer True or False.", "expected": "True"}
+{"id": "bench-0058", "language": "en", "category": "comparison", "prompt": "Is 25 less than 42? Answer True or False.", "expected": "True"}
+{"id": "bench-0059", "language": "en", "category": "comparison", "prompt": "Is 32 less than 10? Answer True or False.", "expected": "False"}
+{"id": "bench-0060", "language": "en", "category": "comparison", "prompt": "Is 39 less than 21? Answer True or False.", "expected": "False"}
+{"id": "bench-0061", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 17 + 9?", "expected": "26"}
+{"id": "bench-0062", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 20 + 10?", "expected": "30"}
+{"id": "bench-0063", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 23 + 11?", "expected": "34"}
+{"id": "bench-0064", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 26 + 12?", "expected": "38"}
+{"id": "bench-0065", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 29 + 13?", "expected": "42"}
+{"id": "bench-0066", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 32 + 14?", "expected": "46"}
+{"id": "bench-0067", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 35 + 15?", "expected": "50"}
+{"id": "bench-0068", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 38 + 9?", "expected": "47"}
+{"id": "bench-0069", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 41 + 10?", "expected": "51"}
+{"id": "bench-0070", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 44 + 11?", "expected": "55"}
+{"id": "bench-0071", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 47 + 12?", "expected": "59"}
+{"id": "bench-0072", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 50 + 13?", "expected": "63"}
+{"id": "bench-0073", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 53 + 14?", "expected": "67"}
+{"id": "bench-0074", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 56 + 15?", "expected": "71"}
+{"id": "bench-0075", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 59 + 9?", "expected": "68"}
+{"id": "bench-0076", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 62 + 10?", "expected": "72"}
+{"id": "bench-0077", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 65 + 11?", "expected": "76"}
+{"id": "bench-0078", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 68 + 12?", "expected": "80"}
+{"id": "bench-0079", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 71 + 13?", "expected": "84"}
+{"id": "bench-0080", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 74 + 14?", "expected": "88"}
+{"id": "bench-0081", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 77 + 15?", "expected": "92"}
+{"id": "bench-0082", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 80 + 9?", "expected": "89"}
+{"id": "bench-0083", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 83 + 10?", "expected": "93"}
+{"id": "bench-0084", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 86 + 11?", "expected": "97"}
+{"id": "bench-0085", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 89 + 12?", "expected": "101"}
+{"id": "bench-0086", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 92 + 13?", "expected": "105"}
+{"id": "bench-0087", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 95 + 14?", "expected": "109"}
+{"id": "bench-0088", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 98 + 15?", "expected": "113"}
+{"id": "bench-0089", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 101 + 9?", "expected": "110"}
+{"id": "bench-0090", "language": "pt", "category": "arithmetic", "prompt": "Responda apenas o resultado: Quanto é 104 + 10?", "expected": "114"}
+{"id": "bench-0091", "language": "pt", "category": "comparison", "prompt": "0 é menor que 3? Responda True ou False.", "expected": "True"}
+{"id": "bench-0092", "language": "pt", "category": "comparison", "prompt": "7 é menor que 14? Responda True ou False.", "expected": "True"}
+{"id": "bench-0093", "language": "pt", "category": "comparison", "prompt": "14 é menor que 25? Responda True ou False.", "expected": "True"}
+{"id": "bench-0094", "language": "pt", "category": "comparison", "prompt": "21 é menor que 36? Responda True ou False.", "expected": "True"}
+{"id": "bench-0095", "language": "pt", "category": "comparison", "prompt": "28 é menor que 4? Responda True ou False.", "expected": "False"}
+{"id": "bench-0096", "language": "pt", "category": "comparison", "prompt": "35 é menor que 15? Responda True ou False.", "expected": "False"}
+{"id": "bench-0097", "language": "pt", "category": "comparison", "prompt": "1 é menor que 26? Responda True ou False.", "expected": "True"}
+{"id": "bench-0098", "language": "pt", "category": "comparison", "prompt": "8 é menor que 37? Responda True ou False.", "expected": "True"}
+{"id": "bench-0099", "language": "pt", "category": "comparison", "prompt": "15 é menor que 5? Responda True ou False.", "expected": "False"}
+{"id": "bench-0100", "language": "pt", "category": "comparison", "prompt": "22 é menor que 16? Responda True ou False.", "expected": "False"}
+{"id": "bench-0101", "language": "pt", "category": "comparison", "prompt": "29 é menor que 27? Responda True ou False.", "expected": "False"}
+{"id": "bench-0102", "language": "pt", "category": "comparison", "prompt": "36 é menor que 38? Responda True ou False.", "expected": "True"}
+{"id": "bench-0103", "language": "pt", "category": "comparison", "prompt": "2 é menor que 6? Responda True ou False.", "expected": "True"}
+{"id": "bench-0104", "language": "pt", "category": "comparison", "prompt": "9 é menor que 17? Responda True ou False.", "expected": "True"}
+{"id": "bench-0105", "language": "pt", "category": "comparison", "prompt": "16 é menor que 28? Responda True ou False.", "expected": "True"}
+{"id": "bench-0106", "language": "pt", "category": "comparison", "prompt": "23 é menor que 39? Responda True ou False.", "expected": "True"}
+{"id": "bench-0107", "language": "pt", "category": "comparison", "prompt": "30 é menor que 7? Responda True ou False.", "expected": "False"}
+{"id": "bench-0108", "language": "pt", "category": "comparison", "prompt": "37 é menor que 18? Responda True ou False.", "expected": "False"}
+{"id": "bench-0109", "language": "pt", "category": "comparison", "prompt": "3 é menor que 29? Responda True ou False.", "expected": "True"}
+{"id": "bench-0110", "language": "pt", "category": "comparison", "prompt": "10 é menor que 40? Responda True ou False.", "expected": "True"}
+{"id": "bench-0111", "language": "pt", "category": "comparison", "prompt": "17 é menor que 8? Responda True ou False.", "expected": "False"}
+{"id": "bench-0112", "language": "pt", "category": "comparison", "prompt": "24 é menor que 19? Responda True ou False.", "expected": "False"}
+{"id": "bench-0113", "language": "pt", "category": "comparison", "prompt": "31 é menor que 30? Responda True ou False.", "expected": "False"}
+{"id": "bench-0114", "language": "pt", "category": "comparison", "prompt": "38 é menor que 41? Responda True ou False.", "expected": "True"}
+{"id": "bench-0115", "language": "pt", "category": "comparison", "prompt": "4 é menor que 9? Responda True ou False.", "expected": "True"}
+{"id": "bench-0116", "language": "pt", "category": "comparison", "prompt": "11 é menor que 20? Responda True ou False.", "expected": "True"}
+{"id": "bench-0117", "language": "pt", "category": "comparison", "prompt": "18 é menor que 31? Responda True ou False.", "expected": "True"}
+{"id": "bench-0118", "language": "pt", "category": "comparison", "prompt": "25 é menor que 42? Responda True ou False.", "expected": "True"}
+{"id": "bench-0119", "language": "pt", "category": "comparison", "prompt": "32 é menor que 10? Responda True ou False.", "expected": "False"}
+{"id": "bench-0120", "language": "pt", "category": "comparison", "prompt": "39 é menor que 21? Responda True ou False.", "expected": "False"}
+{"id": "bench-0121", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 17 + 9?", "expected": "26"}
+{"id": "bench-0122", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 20 + 10?", "expected": "30"}
+{"id": "bench-0123", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 23 + 11?", "expected": "34"}
+{"id": "bench-0124", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 26 + 12?", "expected": "38"}
+{"id": "bench-0125", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 29 + 13?", "expected": "42"}
+{"id": "bench-0126", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 32 + 14?", "expected": "46"}
+{"id": "bench-0127", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 35 + 15?", "expected": "50"}
+{"id": "bench-0128", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 38 + 9?", "expected": "47"}
+{"id": "bench-0129", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 41 + 10?", "expected": "51"}
+{"id": "bench-0130", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 44 + 11?", "expected": "55"}
+{"id": "bench-0131", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 47 + 12?", "expected": "59"}
+{"id": "bench-0132", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 50 + 13?", "expected": "63"}
+{"id": "bench-0133", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 53 + 14?", "expected": "67"}
+{"id": "bench-0134", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 56 + 15?", "expected": "71"}
+{"id": "bench-0135", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 59 + 9?", "expected": "68"}
+{"id": "bench-0136", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 62 + 10?", "expected": "72"}
+{"id": "bench-0137", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 65 + 11?", "expected": "76"}
+{"id": "bench-0138", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 68 + 12?", "expected": "80"}
+{"id": "bench-0139", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 71 + 13?", "expected": "84"}
+{"id": "bench-0140", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 74 + 14?", "expected": "88"}
+{"id": "bench-0141", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 77 + 15?", "expected": "92"}
+{"id": "bench-0142", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 80 + 9?", "expected": "89"}
+{"id": "bench-0143", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 83 + 10?", "expected": "93"}
+{"id": "bench-0144", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 86 + 11?", "expected": "97"}
+{"id": "bench-0145", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 89 + 12?", "expected": "101"}
+{"id": "bench-0146", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 92 + 13?", "expected": "105"}
+{"id": "bench-0147", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 95 + 14?", "expected": "109"}
+{"id": "bench-0148", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 98 + 15?", "expected": "113"}
+{"id": "bench-0149", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 101 + 9?", "expected": "110"}
+{"id": "bench-0150", "language": "es", "category": "arithmetic", "prompt": "Responde solo el resultado: ¿Cuánto es 104 + 10?", "expected": "114"}
+{"id": "bench-0151", "language": "es", "category": "comparison", "prompt": "¿0 es menor que 3? Responde True o False.", "expected": "True"}
+{"id": "bench-0152", "language": "es", "category": "comparison", "prompt": "¿7 es menor que 14? Responde True o False.", "expected": "True"}
+{"id": "bench-0153", "language": "es", "category": "comparison", "prompt": "¿14 es menor que 25? Responde True o False.", "expected": "True"}
+{"id": "bench-0154", "language": "es", "category": "comparison", "prompt": "¿21 es menor que 36? Responde True o False.", "expected": "True"}
+{"id": "bench-0155", "language": "es", "category": "comparison", "prompt": "¿28 es menor que 4? Responde True o False.", "expected": "False"}
+{"id": "bench-0156", "language": "es", "category": "comparison", "prompt": "¿35 es menor que 15? Responde True o False.", "expected": "False"}
+{"id": "bench-0157", "language": "es", "category": "comparison", "prompt": "¿1 es menor que 26? Responde True o False.", "expected": "True"}
+{"id": "bench-0158", "language": "es", "category": "comparison", "prompt": "¿8 es menor que 37? Responde True o False.", "expected": "True"}
+{"id": "bench-0159", "language": "es", "category": "comparison", "prompt": "¿15 es menor que 5? Responde True o False.", "expected": "False"}
+{"id": "bench-0160", "language": "es", "category": "comparison", "prompt": "¿22 es menor que 16? Responde True o False.", "expected": "False"}
+{"id": "bench-0161", "language": "es", "category": "comparison", "prompt": "¿29 es menor que 27? Responde True o False.", "expected": "False"}
+{"id": "bench-0162", "language": "es", "category": "comparison", "prompt": "¿36 es menor que 38? Responde True o False.", "expected": "True"}
+{"id": "bench-0163", "language": "es", "category": "comparison", "prompt": "¿2 es menor que 6? Responde True o False.", "expected": "True"}
+{"id": "bench-0164", "language": "es", "category": "comparison", "prompt": "¿9 es menor que 17? Responde True o False.", "expected": "True"}
+{"id": "bench-0165", "language": "es", "category": "comparison", "prompt": "¿16 es menor que 28? Responde True o False.", "expected": "True"}
+{"id": "bench-0166", "language": "es", "category": "comparison", "prompt": "¿23 es menor que 39? Responde True o False.", "expected": "True"}
+{"id": "bench-0167", "language": "es", "category": "comparison", "prompt": "¿30 es menor que 7? Responde True o False.", "expected": "False"}
+{"id": "bench-0168", "language": "es", "category": "comparison", "prompt": "¿37 es menor que 18? Responde True o False.", "expected": "False"}
+{"id": "bench-0169", "language": "es", "category": "comparison", "prompt": "¿3 es menor que 29? Responde True o False.", "expected": "True"}
+{"id": "bench-0170", "language": "es", "category": "comparison", "prompt": "¿10 es menor que 40? Responde True o False.", "expected": "True"}
+{"id": "bench-0171", "language": "es", "category": "comparison", "prompt": "¿17 es menor que 8? Responde True o False.", "expected": "False"}
+{"id": "bench-0172", "language": "es", "category": "comparison", "prompt": "¿24 es menor que 19? Responde True o False.", "expected": "False"}
+{"id": "bench-0173", "language": "es", "category": "comparison", "prompt": "¿31 es menor que 30? Responde True o False.", "expected": "False"}
+{"id": "bench-0174", "language": "es", "category": "comparison", "prompt": "¿38 es menor que 41? Responde True o False.", "expected": "True"}
+{"id": "bench-0175", "language": "es", "category": "comparison", "prompt": "¿4 es menor que 9? Responde True o False.", "expected": "True"}
+{"id": "bench-0176", "language": "es", "category": "comparison", "prompt": "¿11 es menor que 20? Responde True o False.", "expected": "True"}
+{"id": "bench-0177", "language": "es", "category": "comparison", "prompt": "¿18 es menor que 31? Responde True o False.", "expected": "True"}
+{"id": "bench-0178", "language": "es", "category": "comparison", "prompt": "¿25 es menor que 42? Responde True o False.", "expected": "True"}
+{"id": "bench-0179", "language": "es", "category": "comparison", "prompt": "¿32 es menor que 10? Responde True o False.", "expected": "False"}
+{"id": "bench-0180", "language": "es", "category": "comparison", "prompt": "¿39 es menor que 21? Responde True o False.", "expected": "False"}
+{"id": "bench-0181", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 1]", "expected": null}
+{"id": "bench-0182", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 2]", "expected": null}
+{"id": "bench-0183", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 3]", "expected": null}
+{"id": "bench-0184", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 4]", "expected": null}
+{"id": "bench-0185", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 5]", "expected": null}
+{"id": "bench-0186", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 6]", "expected": null}
+{"id": "bench-0187", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 7]", "expected": null}
+{"id": "bench-0188", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 8]", "expected": null}
+{"id": "bench-0189", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 9]", "expected": null}
+{"id": "bench-0190", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 10]", "expected": null}
+{"id": "bench-0191", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 11]", "expected": null}
+{"id": "bench-0192", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 12]", "expected": null}
+{"id": "bench-0193", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 13]", "expected": null}
+{"id": "bench-0194", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 14]", "expected": null}
+{"id": "bench-0195", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 15]", "expected": null}
+{"id": "bench-0196", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 16]", "expected": null}
+{"id": "bench-0197", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 17]", "expected": null}
+{"id": "bench-0198", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 18]", "expected": null}
+{"id": "bench-0199", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 19]", "expected": null}
+{"id": "bench-0200", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 20]", "expected": null}
+{"id": "bench-0201", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 21]", "expected": null}
+{"id": "bench-0202", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 22]", "expected": null}
+{"id": "bench-0203", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 23]", "expected": null}
+{"id": "bench-0204", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 24]", "expected": null}
+{"id": "bench-0205", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 25]", "expected": null}
+{"id": "bench-0206", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 26]", "expected": null}
+{"id": "bench-0207", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 27]", "expected": null}
+{"id": "bench-0208", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 28]", "expected": null}
+{"id": "bench-0209", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 29]", "expected": null}
+{"id": "bench-0210", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 30]", "expected": null}
+{"id": "bench-0211", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 31]", "expected": null}
+{"id": "bench-0212", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 32]", "expected": null}
+{"id": "bench-0213", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 33]", "expected": null}
+{"id": "bench-0214", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 34]", "expected": null}
+{"id": "bench-0215", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 35]", "expected": null}
+{"id": "bench-0216", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 36]", "expected": null}
+{"id": "bench-0217", "language": "en", "category": "assistant", "prompt": "Explain recursion to a beginner. [case 37]", "expected": null}
+{"id": "bench-0218", "language": "en", "category": "assistant", "prompt": "Write a Python function that removes duplicates while preserving order. [case 38]", "expected": null}
+{"id": "bench-0219", "language": "en", "category": "assistant", "prompt": "Explain why validation data must be separate from training data. [case 39]", "expected": null}
+{"id": "bench-0220", "language": "en", "category": "assistant", "prompt": "A request is ambiguous. Explain what clarification you need. [case 40]", "expected": null}
+{"id": "bench-0221", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 1]", "expected": null}
+{"id": "bench-0222", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 2]", "expected": null}
+{"id": "bench-0223", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 3]", "expected": null}
+{"id": "bench-0224", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 4]", "expected": null}
+{"id": "bench-0225", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 5]", "expected": null}
+{"id": "bench-0226", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 6]", "expected": null}
+{"id": "bench-0227", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 7]", "expected": null}
+{"id": "bench-0228", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 8]", "expected": null}
+{"id": "bench-0229", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 9]", "expected": null}
+{"id": "bench-0230", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 10]", "expected": null}
+{"id": "bench-0231", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 11]", "expected": null}
+{"id": "bench-0232", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 12]", "expected": null}
+{"id": "bench-0233", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 13]", "expected": null}
+{"id": "bench-0234", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 14]", "expected": null}
+{"id": "bench-0235", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 15]", "expected": null}
+{"id": "bench-0236", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 16]", "expected": null}
+{"id": "bench-0237", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 17]", "expected": null}
+{"id": "bench-0238", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 18]", "expected": null}
+{"id": "bench-0239", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 19]", "expected": null}
+{"id": "bench-0240", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 20]", "expected": null}
+{"id": "bench-0241", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 21]", "expected": null}
+{"id": "bench-0242", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 22]", "expected": null}
+{"id": "bench-0243", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 23]", "expected": null}
+{"id": "bench-0244", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 24]", "expected": null}
+{"id": "bench-0245", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 25]", "expected": null}
+{"id": "bench-0246", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 26]", "expected": null}
+{"id": "bench-0247", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 27]", "expected": null}
+{"id": "bench-0248", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 28]", "expected": null}
+{"id": "bench-0249", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 29]", "expected": null}
+{"id": "bench-0250", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 30]", "expected": null}
+{"id": "bench-0251", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 31]", "expected": null}
+{"id": "bench-0252", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 32]", "expected": null}
+{"id": "bench-0253", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 33]", "expected": null}
+{"id": "bench-0254", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 34]", "expected": null}
+{"id": "bench-0255", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 35]", "expected": null}
+{"id": "bench-0256", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 36]", "expected": null}
+{"id": "bench-0257", "language": "pt", "category": "assistant", "prompt": "Explique recursão para um iniciante. [case 37]", "expected": null}
+{"id": "bench-0258", "language": "pt", "category": "assistant", "prompt": "Escreva uma função Python que remova duplicatas preservando a ordem. [case 38]", "expected": null}
+{"id": "bench-0259", "language": "pt", "category": "assistant", "prompt": "Explique por que validação deve ser separada do treinamento. [case 39]", "expected": null}
+{"id": "bench-0260", "language": "pt", "category": "assistant", "prompt": "Um pedido é ambíguo. Explique qual esclarecimento você precisa. [case 40]", "expected": null}
+{"id": "bench-0261", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 1]", "expected": null}
+{"id": "bench-0262", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 2]", "expected": null}
+{"id": "bench-0263", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 3]", "expected": null}
+{"id": "bench-0264", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 4]", "expected": null}
+{"id": "bench-0265", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 5]", "expected": null}
+{"id": "bench-0266", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 6]", "expected": null}
+{"id": "bench-0267", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 7]", "expected": null}
+{"id": "bench-0268", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 8]", "expected": null}
+{"id": "bench-0269", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 9]", "expected": null}
+{"id": "bench-0270", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 10]", "expected": null}
+{"id": "bench-0271", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 11]", "expected": null}
+{"id": "bench-0272", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 12]", "expected": null}
+{"id": "bench-0273", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 13]", "expected": null}
+{"id": "bench-0274", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 14]", "expected": null}
+{"id": "bench-0275", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 15]", "expected": null}
+{"id": "bench-0276", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 16]", "expected": null}
+{"id": "bench-0277", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 17]", "expected": null}
+{"id": "bench-0278", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 18]", "expected": null}
+{"id": "bench-0279", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 19]", "expected": null}
+{"id": "bench-0280", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 20]", "expected": null}
+{"id": "bench-0281", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 21]", "expected": null}
+{"id": "bench-0282", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 22]", "expected": null}
+{"id": "bench-0283", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 23]", "expected": null}
+{"id": "bench-0284", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 24]", "expected": null}
+{"id": "bench-0285", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 25]", "expected": null}
+{"id": "bench-0286", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 26]", "expected": null}
+{"id": "bench-0287", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 27]", "expected": null}
+{"id": "bench-0288", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 28]", "expected": null}
+{"id": "bench-0289", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 29]", "expected": null}
+{"id": "bench-0290", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 30]", "expected": null}
+{"id": "bench-0291", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 31]", "expected": null}
+{"id": "bench-0292", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 32]", "expected": null}
+{"id": "bench-0293", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 33]", "expected": null}
+{"id": "bench-0294", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 34]", "expected": null}
+{"id": "bench-0295", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 35]", "expected": null}
+{"id": "bench-0296", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 36]", "expected": null}
+{"id": "bench-0297", "language": "es", "category": "assistant", "prompt": "Explica la recursión a un principiante. [case 37]", "expected": null}
+{"id": "bench-0298", "language": "es", "category": "assistant", "prompt": "Escribe una función Python que elimine duplicados conservando el orden. [case 38]", "expected": null}
+{"id": "bench-0299", "language": "es", "category": "assistant", "prompt": "Explica por qué validación debe separarse del entrenamiento. [case 39]", "expected": null}
+{"id": "bench-0300", "language": "es", "category": "assistant", "prompt": "Una solicitud es ambigua. Explica qué aclaración necesitas. [case 40]", "expected": null}

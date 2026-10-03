@@ -1,0 +1,18 @@
+{
+  "STAGE4_README.md": "e3d3196f7a0d475a42741d3afc9e2aea4ca14dc9bb9cd103ed0219f074b76b80",
+  "configs/stage4.json": "f283e5914c3b274d29ac8b466a54209ae2bf16f0f19c0ce8090a8f7fbdeb411a",
+  "deployment/Modelfile": "cc8a4342ba523fd109250429bdba55e1080ecc9ecd5fffe79387994721c0e39d",
+  "requirements-stage4.txt": "4c0264fbd07f4dbdb51d457bcefc2ce31fcd68f907e59d2f759f3bd889743460",
+  "scripts/convert_stage4_gguf.sh": "aa4c68c9c608ea4bab5f7ba7259b7757cbc264c63be82b8e612865f440533219",
+  "scripts/install_ollama_stage4.sh": "28321541deb0d21671ead531629f102fa3bcfb973dd456e8ea9218efe97f2299",
+  "scripts/run_stage4.sh": "7adf4ceb476cc8c0bcee261e818738d2832cb7019a0b3b1fc21df01315d9f419",
+  "src/audit_stage4.py": "15995bf4f3d902e1648fc231f814b67893e28f792a39a984dcf0eab20ff2a5e8",
+  "src/build_benchmark_stage4.py": "b89ab50035d593d7a8a17d23a2b9502bdc7cac98cbf8953fb13e93dc73e81b71",
+  "src/common_stage4.py": "fdcb10ea35ad2b0e1f4e94c60d8f18afa98db6b9a5e2b3845842e0573cb6e7fd",
+  "src/dataset_stage4.py": "3f07a2365af57d8ee2002c3af03721471320ca1f47706104fa294616a064226d",
+  "src/evaluate_stage4.py": "6fff03a179f9352e3538bddd166c632d1074c8dedaeacb953bd27bc633d3272e",
+  "src/finalize_stage4.py": "8513b852519aed9b0ce7d4100cb9c3e92c858f9286fdb03895062d482d80f86c",
+  "src/prepare_stage4.py": "6444cc7a1d6065951e8a67a5bee2553b2523e02e2934997f36d65b28578da069",
+  "src/train_stage4.py": "393aa68634365f29662013bc0c7fd8d55504f04df1447212a5301ce6107015b5",
+  "tests/test_stage4.py": "337d1b443fc7257ab431f2b259c45e5a9557c6ce27faab54d58bf46752904257"
+}

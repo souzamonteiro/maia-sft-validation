@@ -1,0 +1,467 @@
+{
+  "stage": "stage4-full-assistant-control-v4",
+  "seed": 42,
+  "total": 18000,
+  "target_languages": {
+    "en": 7200,
+    "pt": 5400,
+    "es": 5400
+  },
+  "language_source_policy": {
+    "en": {
+      "dolly": 5200,
+      "oasst2": 2000
+    },
+    "pt": {
+      "oasst2": "all usable direct OASST2 PT",
+      "ultrachat_ptbr": 2500,
+      "alpaca_ptbr": 1400,
+      "aya": 700,
+      "metamathqa_ptbr": "remainder to exactly 5400",
+      "codealpaca_ptbr": 0
+    },
+    "es": {
+      "oasst2": "all usable direct OASST2 ES",
+      "latam-gpt-es-ultrachat": "remainder to exactly 5400"
+    }
+  },
+  "excluded": {
+    "codealpaca_ptbr": "excluded from Stage 4 V4 after manual inspection showed corrupted translated programming syntax"
+  },
+  "split_policy": {
+    "train": 90,
+    "validation": 5,
+    "test": 5,
+    "anti_leakage": "content-connected groups sharing any normalized user prompt are indivisible"
+  },
+  "counts": {
+    "train": 16206,
+    "validation": 901,
+    "test": 893
+  },
+  "languages": {
+    "train": {
+      "en": 6485,
+      "es": 4892,
+      "pt": 4829
+    },
+    "validation": {
+      "en": 367,
+      "es": 258,
+      "pt": 276
+    },
+    "test": {
+      "en": 348,
+      "es": 250,
+      "pt": 295
+    }
+  },
+  "sources": {
+    "train": {
+      "dolly": 4689,
+      "latam-gpt-es-ultrachat": 1673,
+      "oasst2": 5204,
+      "ultra-alpaca-ptbr": 4640
+    },
+    "validation": {
+      "dolly": 251,
+      "latam-gpt-es-ultrachat": 94,
+      "oasst2": 288,
+      "ultra-alpaca-ptbr": 268
+    },
+    "test": {
+      "dolly": 260,
+      "latam-gpt-es-ultrachat": 81,
+      "oasst2": 261,
+      "ultra-alpaca-ptbr": 291
+    }
+  },
+  "subsources": {
+    "train": {
+      "alpaca_ptbr": 1255,
+      "aya": 621,
+      "dolly": 4689,
+      "metamathqa_ptbr": 534,
+      "oasst2": 5204,
+      "translated-ultrachat": 1673,
+      "ultrachat_ptbr": 2230
+    },
+    "validation": {
+      "alpaca_ptbr": 68,
+      "aya": 39,
+      "dolly": 251,
+      "metamathqa_ptbr": 29,
+      "oasst2": 288,
+      "translated-ultrachat": 94,
+      "ultrachat_ptbr": 132
+    },
+    "test": {
+      "alpaca_ptbr": 77,
+      "aya": 40,
+      "dolly": 260,
+      "metamathqa_ptbr": 36,
+      "oasst2": 261,
+      "translated-ultrachat": 81,
+      "ultrachat_ptbr": 138
+    }
+  },
+  "provenance": {
+    "train": [
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "brainstorming",
+        "count": 554
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "classification",
+        "count": 710
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "closed_qa",
+        "count": 536
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "creative_writing",
+        "count": 223
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "general_qa",
+        "count": 670
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "information_extraction",
+        "count": 471
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "open_qa",
+        "count": 1148
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "summarization",
+        "count": 377
+      },
+      {
+        "language": "en",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 1796
+      },
+      {
+        "language": "es",
+        "source": "latam-gpt-es-ultrachat",
+        "subsource": "translated-ultrachat",
+        "category": "assistant_conversation",
+        "count": 1673
+      },
+      {
+        "language": "es",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 3219
+      },
+      {
+        "language": "pt",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 189
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "alpaca_ptbr",
+        "category": "assistant_instruction",
+        "count": 1255
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "aya",
+        "category": "assistant_instruction",
+        "count": 621
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "metamathqa_ptbr",
+        "category": "assistant_instruction",
+        "count": 534
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "ultrachat_ptbr",
+        "category": "assistant_instruction",
+        "count": 2230
+      }
+    ],
+    "validation": [
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "brainstorming",
+        "count": 21
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "classification",
+        "count": 36
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "closed_qa",
+        "count": 33
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "creative_writing",
+        "count": 10
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "general_qa",
+        "count": 52
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "information_extraction",
+        "count": 25
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "open_qa",
+        "count": 49
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "summarization",
+        "count": 25
+      },
+      {
+        "language": "en",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 116
+      },
+      {
+        "language": "es",
+        "source": "latam-gpt-es-ultrachat",
+        "subsource": "translated-ultrachat",
+        "category": "assistant_conversation",
+        "count": 94
+      },
+      {
+        "language": "es",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 164
+      },
+      {
+        "language": "pt",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 8
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "alpaca_ptbr",
+        "category": "assistant_instruction",
+        "count": 68
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "aya",
+        "category": "assistant_instruction",
+        "count": 39
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "metamathqa_ptbr",
+        "category": "assistant_instruction",
+        "count": 29
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "ultrachat_ptbr",
+        "category": "assistant_instruction",
+        "count": 132
+      }
+    ],
+    "test": [
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "brainstorming",
+        "count": 26
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "classification",
+        "count": 25
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "closed_qa",
+        "count": 33
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "creative_writing",
+        "count": 14
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "general_qa",
+        "count": 38
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "information_extraction",
+        "count": 29
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "open_qa",
+        "count": 80
+      },
+      {
+        "language": "en",
+        "source": "dolly",
+        "subsource": "dolly",
+        "category": "summarization",
+        "count": 15
+      },
+      {
+        "language": "en",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 88
+      },
+      {
+        "language": "es",
+        "source": "latam-gpt-es-ultrachat",
+        "subsource": "translated-ultrachat",
+        "category": "assistant_conversation",
+        "count": 81
+      },
+      {
+        "language": "es",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 169
+      },
+      {
+        "language": "pt",
+        "source": "oasst2",
+        "subsource": "oasst2",
+        "category": "assistant_conversation",
+        "count": 4
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "alpaca_ptbr",
+        "category": "assistant_instruction",
+        "count": 77
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "aya",
+        "category": "assistant_instruction",
+        "count": 40
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "metamathqa_ptbr",
+        "category": "assistant_instruction",
+        "count": 36
+      },
+      {
+        "language": "pt",
+        "source": "ultra-alpaca-ptbr",
+        "subsource": "ultrachat_ptbr",
+        "category": "assistant_instruction",
+        "count": 138
+      }
+    ]
+  },
+  "sha256": {
+    "train": "ee80a1efc74807d354761d9728cd498e9f543c84a5e568e4f3821d2fa48565f9",
+    "validation": "5d8ea877e14105e06068f2d7de5ae55d265b4069af2c1b0762b162df1be1347a",
+    "test": "03b7289a5841f79e1c95188f22615dca6789846aeddecc1b3c90f9713c918834"
+  },
+  "audit": {
+    "prompt_leakage": "PASS",
+    "cross_source_exact_duplicates": 0,
+    "target_total": 18000,
+    "target_language_composition": {
+      "en": 7200,
+      "pt": 5400,
+      "es": 5400
+    }
+  }
+}
