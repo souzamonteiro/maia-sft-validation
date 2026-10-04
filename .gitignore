@@ -9,6 +9,7 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 
+
 # ============================================================
 # macOS
 # ============================================================
@@ -17,6 +18,7 @@ __pycache__/
 .AppleDouble
 .LSOverride
 
+
 # ============================================================
 # IDEs
 # ============================================================
@@ -24,19 +26,41 @@ __pycache__/
 .vscode/
 .idea/
 
+
 # ============================================================
 # Model outputs / checkpoints
 # ============================================================
 
+# Ignore training outputs by default
 outputs/*
+
+# Keep output directory
 !outputs/.gitkeep
 
+# Keep reproducible deployment files
+!outputs/deploy/
+outputs/deploy/*
+
+!outputs/deploy/maia-lite-355m-stage4/
+!outputs/deploy/maia-lite-355m-stage4/*.py
+!outputs/deploy/maia-lite-355m-stage4/*.sh
+!outputs/deploy/maia-lite-355m-stage4/Modelfile
+!outputs/deploy/maia-lite-355m-stage4/README.md
+!outputs/deploy/maia-lite-355m-stage4/SHA256SUMS
+
+# Never commit model binaries
+outputs/deploy/maia-lite-355m-stage4/merged-hf/
+outputs/deploy/maia-lite-355m-stage4/gguf/
+
 checkpoints/
+
 *.safetensors
+*.gguf
 *.bin
 *.pt
 *.pth
 *.ckpt
+
 
 # ============================================================
 # Hugging Face cache
@@ -45,6 +69,7 @@ checkpoints/
 .cache/
 huggingface/
 hf_cache/
+
 
 # ============================================================
 # Temporary files

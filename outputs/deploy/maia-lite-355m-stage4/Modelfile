@@ -1,0 +1,21 @@
+FROM ./gguf/maia-lite-355m-stage4-f16.gguf
+
+PARAMETER num_ctx 1024
+PARAMETER temperature 0
+
+PARAMETER stop "User:"
+PARAMETER stop "System:"
+
+SYSTEM """You are a helpful, careful multilingual assistant. Answer in the user's language unless asked otherwise."""
+
+TEMPLATE """{{- if .System }}
+System: {{ .System }}
+{{- end }}
+{{- range .Messages }}
+{{- if eq .Role "user" }}
+User: {{ .Content }}
+Assistant: 
+{{- else if eq .Role "assistant" }}
+{{ .Content }}
+{{- end }}
+{{- end }}"""
