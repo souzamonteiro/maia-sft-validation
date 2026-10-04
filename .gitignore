@@ -78,4 +78,5 @@ hf_cache/
 *.tmp
 *.temp
 *.log
-*~
+*~release/
+outputs/deploy/maia-lite-355m-stage4/release/
