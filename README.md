@@ -1,5 +1,7 @@
 # Maia SFT Validation
 
+![Maia](<images/Maia Lite Arara_ Inteligência Aberta.png>)
+
 A controlled supervised fine-tuning validation project for the **GPT-2 Medium (355M)** architecture, designed as a positive-control experiment before applying the same SFT methodology to **Maia Lite 355M**.
 
 ## Scientific objective
